@@ -1,0 +1,818 @@
+Index,Description,Reviews,Price,Discount,Brand,TV_Type,TV_Size,TV_Pixels
+0,"Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55TU690TFXZC) - 2022 - Only at Best Buy",40,$599.99,15.50,Samsung,LED,55,4K
+1,"Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43TU690TFXZC) - 2022 - Only at Best Buy",1015,$399.99,12.20,Samsung,LED,43,4K
+2,"Samsung The Frame 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS03BAFXZC) - 2022 - Charcoal Black",418,$2299.99,$400,Samsung,LED,65,4K
+3,Explore Sony’s full TV lineup. ,0,NA,15.50,Sony,NA,NA,NA
+4,"Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU7000FXZC) - Titan Grey",24374,$849.99,$50,Samsung,LED,65,4K
+5,"Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55CU7000FXZC) - 2023 - Titan Grey",157,$699.99,15.50,Samsung,LED,55,4K
+6,"Sony X75K 55"" 4K UHD HDR LED Smart Google TV (KD55X75K) - 2022",493,$699.95,15.50,Sony,LED,55,4K
+7,"Samsung 58"" 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey",14619,$729.95,15.50,Samsung,LED,58,4K
+8,"Open Box - Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65AU8000FXZC) - 2021",1685,$799.99,15.50,Samsung,LED,65,4K
+9,"Samsung 65"" 4K UHD OLED Tizen Smart TV (QN65S95BAFXZC)",1999,$2599.95,15.50,Samsung,OLED,65,4K
+10,"Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55TU7000FXZC) - Titan Grey",20714,$649.99,0,Samsung,LED,55,4K
+11,"Samsung 32"" 1080p HD LED Tizen Smart TV (UN32N5300AFXZC) - Glossy Black",7621,$299.99,$100,Samsung,LED,32,1080p
+12,"Samsung 65"" 4K UHD HDR QLED Smart TV (QN65Q60CAFXZC) - 2023 - Titan Grey",93,$1199.99,15.50,Samsung,LED,65,4K
+13,"Sony X75K 65"" 4K UHD HDR LED Smart Google TV (KD65X75K) - 2022",540,$849.99,15.50,Sony,LED,65,4K
+14,"Samsung 55"" 4K UHD OLED Tizen Smart TV (QN55S95BAFXZC)",1467,$1899.99,15.50,Samsung,OLED,55,4K
+15,"Samsung 50"" 4K UHD HDR LED Tizen Smart TV (UN50TU690TFXZC) - 2022 - Only at Best Buy",764,$599.99,15.50,Samsung,LED,50,4K
+16,"Sony BRAVIA 65"" 4K UHD HDR LED Google TV Smart TV (XR65X90K) - 2022",1068,$1499.99,0,Sony,LED,65,4K
+17,"Samsung The Frame 55"" 4K UHD HDR QLED Tizen Smart TV (QN55LS03BAFXZC) - 2022 - Charcoal Black",418,$1999.99,$53,Samsung,LED,55,4K
+18,"Open Box - Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU7000FXZC) - Titan Grey",4,$669.99,15.50,Samsung,LED,65,4K
+19,"Samsung 55"" 4K UHD Neo QLED Tizen Smart TV (QN55QN90BAFXZC) - Titan Black",143,$1499.95,$400,Samsung,LED,55,4K
+20,"LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO75UQA) - 2022 - Ashed Blue",453,$999.99,15.50,LG,LED,65,4K
+21,"Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU690TFXZC) - 2022 - Only at Best Buy",49,$799.99,15.50,Samsung,LED,65,4K
+22,"LG 65"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED65C2PUA) - 2022 - Dark Titan Silver",4770,$2499.99,15.50,LG,OLED,65,4K
+23,"Toshiba 50"" 4K UHD HDR LED Smart TV (50C350KC) - Fire TV Edition - 2021 - Only at Best Buy",21,$629.99,0,Toshiba,LED,50,4K
+24,"TCL 3-Series 40"" 1080p HD LED Roku Smart TV (40S355-CA) - 2022",7,$279.95,$80,NA,LED,40,1080p
+25,"Toshiba 55"" 4K UHD HDR LED Smart TV (55C350KC) - Fire TV Edition - 2021 - Only at Best Buy",56,$649.99,7.50,Toshiba,LED,55,4K
+26,"Samsung 32"" 720p HD LED Tizen Smart TV (UN32M4500BFXZC) - Glossy Black",4645,$229.99,12.20,Samsung,LED,32,720p
+27,"LG 42"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED42C2PUA) - 2022 - Dark Titan Silver",2730,$1499.99,12.20,LG,OLED,42,4K
+28,"Hisense 40"" 1080p HD LED VIDAA Smart TV (40A4KV) - 2023",0,$249.99,$50,Hisense,LED,40,1080p
+29,"Amazon Fire TV 4-Series 43"" 4K UHD HDR LED Smart TV (B08T6FMSY8) - 2021",16,$339.99,$200,Amazon fire TV,LED,43,4K
+30,"Samsung The Frame 50"" 4K UHD HDR QLED Tizen Smart TV (QN50LS03BAFXZC) - 2022 - Charcoal Black",419,$1399.99,0,Samsung,LED,50,4K
+31,"TCL 55"" Q-Series 4K UHD HDR QLED Smart Google TV (55Q650G-CA) - 2023",0,$549.99,15.50,NA,LED,55,4K
+32,"LG 55"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED55C2PUA) - 2022 - Dark Titan Silver",4226,$1799.95,$100,LG,OLED,55,4K
+33,"Samsung 70"" 4K UHD HDR LED Tizen Smart TV (UN70CU7000FXZC) - 2023 - Titan Grey",122,$999.99,12.20,Samsung,LED,70,4K
+34,"Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43TU7000FXZC) - Titan Grey",20963,$449.95,15.50,Samsung,LED,43,4K
+35,"Sony BRAVIA 75"" 4K UHD HDR LED Google TV Smart TV (XR75X90K) - 2022",550,$1999.99,15.50,Sony,LED,75,4K
+36,"Sony BRAVIA XR 65"" 4K UHD HDR OLED Google TV Smart TV (XR65A80K) - 2022 - Titanium Black",1514,$2399.99,15.50,Sony,OLED,65,4K
+37,"LG 55"" 4K UHD HDR OLED webOS Smart TV (OLED55B2PUA) - 2022",980,$1399.99,15.50,LG,OLED,55,4K
+38,"LG 75"" 4K UHD HDR LED webOS Smart TV (75UP7070PUD) - 2021",1131,$998.98,$300,LG,LED,75,4K
+39,"LG 77"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED77C2PUA) - 2022 - Dark Titan Silver",3575,$3799.99,"$2,300",LG,OLED,77,4K
+40,"Samsung 85"" 4K UHD Neo QLED Tizen Smart TV (QN85QN90BAFXZC) - Titan Black",138,$3999.97,$29,Samsung,LED,85,4K
+41,"Open Box - Samsung 32"" 720p HD LED Tizen Smart TV (UN32M4500BFXZC) - Glossy Black",13,$183.99,15.50,Samsung,LED,32,720p
+42,"Samsung 70"" 4K UHD HDR LED Tizen Smart TV (UN70TU7000FXZC) - Titan Grey",12075,$999.97,15.50,Samsung,LED,70,4K
+43,"Samsung 65"" 4K UHD Neo QLED Tizen Smart TV (QN65QN90BAFXZC) - Titan Black",143,$2099.99,$50,Samsung,LED,65,4K
+44,"Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65CU7000FXZC) - 2023 - Titan Grey",158,$899.99,$40,Samsung,LED,65,4K
+45,"Open Box - Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU690TFXZC) - 2022",2,$639.99,15.50,Samsung,LED,65,4K
+46,"Sony BRAVIA 55"" 4K UHD HDR LED Google TV Smart TV (XR55X90K) - 2022",433,$1199.99,"$1,200",Sony,LED,55,4K
+47,"Sony BRAVIA XR X95K 65"" 4K UHD HDR Mini-LED Smart Google TV (XR65X95K) - 2022",282,$2499.99,15.50,Sony,LED,65,4K
+48,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q60BAFXZC) - Titan Grey",256,$1199.99,15.50,Samsung,LED,65,4K
+49,"Sony BRAVIA 85"" 4K UHD HDR LED Google TV Smart TV (XR85X90K) - 2022",455,$2799.99,"$1,000",Sony,LED,85,4K
+50,"Samsung The Frame 75"" 4K UHD HDR QLED Tizen Smart TV (QN75LS03BAFXZC) - 2022 - Charcoal Black",413,$2999.99,15.50,Samsung,LED,75,4K
+51,"Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75AU8000FXZC) - 2021",4381,$1299.99,$200,Samsung,LED,75,4K
+52,"LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",854,$1199.99,$600,LG,QNED,65,4K
+53,"Sony BRAVIA XR A95K 65"" 4K UHD HDR OLED Smart Google TV (XR65A95K) - 2022",510,$3999.99,15.50,Sony,OLED,65,4K
+54,"Samsung 75"" 4K UHD HDR Neo QLED Tizen Smart TV (QN75QN88BAFXZC) - Titan Black",4,$3499.99,15.50,Samsung,LED,75,4K
+55,"LG 55"" 4K UHD HDR LED webOS Smart TV Smart TV (55UP7000PUA) - 2021 - Open Box",2071,$689.99,$100,LG,LED,55,4K
+56,"Samsung The Frame 32"" 1080p HD HDR QLED Tizen Smart TV (QN32LS03CBFXZC) - 2023",0,$699.99,15.50,Samsung,LED,32,1080p
+57,"LG 50"" 4K UHD HDR LED webOS Smart TV (50UQ7590PUB) - 2022 - Dark Iron Grey",26,$649.99,$300,LG,LED,50,4K
+58,"LG 75"" 4K UHD HDR LED webOS Smart TV (75UQ7590PUB) - 2022 - Dark Iron Grey",697,$1299.99,12.20,LG,LED,75,4K
+59,"Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43CU7000FXZC) - 2023 - Titan Grey",130,$549.99,$53,Samsung,LED,43,4K
+60,"Open Box - Samsung 50"" 4K UHD HDR LED Tizen Smart TV (UN50AU8000FXZC) - 2021",2,$499.99,12.20,Samsung,LED,50,4K
+61,"Insignia 32"" 720p HD LED TV (NS-32D310CA21) - 2020 - Only at Best Buy",3856,$199.99,$285,Insignia,LED,32,720p
+62,"Samsung 65"" 4K UHD OLED Tizen Smart TV (QN65S95BAFXZC) - Open Box",5,$1839.99,$245,Samsung,OLED,65,4K
+63,"Open Box - Samsung 82"" 4K UHD HDR LED Tizen OS Smart TV (UN82TU7000FXZC) - 2021 - Titan Grey",0,$1199.99,0,Samsung,LED,82,4K
+64,"TCL 4-Series 50"" 4K UHD HDR LED Smart Google TV (50S446-CA) - 2021",592,$429.95,12.20,NA,LED,50,4K
+65,"LG 43"" 4K UHD HDR LED webOS Smart TV (43UQ7590PUB) - 2022 - Dark Iron Grey",1586,$499.99,15.50,LG,LED,43,4K
+66,"Sony BRAVIA XR 55"" 4K UHD HDR OLED Google TV Smart TV (XR55A80K) - 2022 - Titanium Black",891,$1899.99,$150,Sony,OLED,55,4K
+67,"LG NanoCell 43"" 4K UHD HDR LED webOS Smart TV (43NANO75UQA) - 2022 - Ashed Blue",495,$549.99,0,LG,LED,43,4K
+68,"TCL 65"" QM-Series 4K UHD HDR QLED Smart Google TV (65QM850G-CA) - 2023",7,$1999.99,15.50,NA,LED,65,4K
+69,"LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65B2PUA) - 2022",1057,$1799.99,$100,LG,OLED,65,4K
+70,"Samsung 55"" 4K UHD HDR QLED Smart TV (QN55Q80CAFXZC) - 2023 - Titan Black",24,$1299.99,15.50,Samsung,LED,55,4K
+71,"Samsung 50"" 4K UHD HDR LED Tizen Smart TV (UN50CU7000FXZC) - 2023 - Titan Grey",141,$649.99,15.50,Samsung,LED,50,4K
+72,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q60BAFXZC) - Titan Grey",246,$1999.99,0,Samsung,LED,75,4K
+73,"Samsung The Frame 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS03BAFXZC) - 2022 - Charcoal Black",415,$1199.99,15.50,Samsung,LED,43,4K
+74,"Sony X80K 65"" 4K UHD HDR LED Smart Google TV (KD65X80K) - 2022",742,$1099.99,15.50,Sony,LED,65,4K
+75,"LG G3 65"" 4K UHD HDR OLED evo Gallery webOS Smart TV (OLED65G3PUA) - 2023 - Satin Silver",32,$3999.99,15.50,LG,OLED,65,4K
+76,"Sony X80K 55"" 4K UHD HDR LED Smart Google TV (KD55X80K) - 2022",555,$899.99,$80,Sony,LED,55,4K
+77,"Open Box - Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75TU7000FXZC) - Titan Grey",1,$939.99,12.20,Samsung,LED,75,4K
+78,"Insignia 40"" 1080p LED TV (NS-40D510CA21) - 2020 - Only at Best Buy",22,$299.99,"$10,499.99",Insignia,LED,40,1080p
+79,"Samsung 85"" 8K UHD HDR Neo QLED Tizen Smart TV (QN85QN900CFXZC) - 2023 - Titan Black",49,NA,$40,Samsung,LED,85,NA
+80,"LG 65"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED65C2PUA) - 2022 - Dark Titan Silver - Open Box",0,$1999.99,$999.95,LG,OLED,65,4K
+81,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q75AAFXZC) - Only at Best Buy",18,NA,15.50,Samsung,LED,55,4K
+82,"Open Box - Samsung 50"" 4K UHD HDR LED Tizen Smart TV (UN50TU7000FXZC) - Titan Grey",4,$439.99,15.50,Samsung,LED,50,4K
+83,"LG 48"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED48C2PUA) - 2022 - Dark Titan Silver",2642,$1699.99,"$5,799.99",LG,OLED,48,4K
+84,"Samsung 77"" 4K UHD HDR OLED Tizen Smart TV(QN77S95CAFXZC) - 2023 - Titan Black",75,NA,15.50,Samsung,OLED,77,4K
+85,"LG 86"" 4K UHD HDR LED webOS Smart TV (86UQ7590PUD) - 2022 - Dark Iron Grey",15,$1799.99,0,LG,LED,86,4K
+86,"TCL 65"" S-Series 4K UHD HDR LED Smart Google TV (65S450G-CA) - 2023",0,$599.99,12.20,NA,LED,65,4K
+87,"Sony X80K 43"" 4K UHD HDR LED Smart Google TV (KD43X80K) - 2022",434,$749.99,$80,Sony,LED,43,4K
+88,"Sony W830K 32"" 720p HD HDR LED Smart Google TV (KD32W830K) - 2022",66,$399.99,15.50,Sony,LED,32,720p
+89,"LG 75"" 4K UHD HDR LED webOS Smart TV (75UQ7070ZUD) - 2022 - Grey - Only at Best Buy",842,$1399.99,0,LG,LED,75,4K
+90,"TCL 40"" S-Series 1080p HD HDR LED Smart Google TV (40S350G-CA) - 2023",0,$269.99,0,NA,LED,40,1080p
+91,"Amazon Fire TV 4-Series 55"" 4K UHD HDR LED Smart TV (B08T6H1RQD) - 2021",22,$499.99,0,Amazon fire TV,LED,55,4K
+92,"TCL 3-Series 32"" 1080p HD LED Roku Smart TV (32S359-CA) - 2022",10,$199.97,$140,NA,LED,32,1080p
+93,"Open Box - Samsung 70"" 4K UHD HDR LED Tizen OS Smart TV (UN70TU6985FXZC) - 2020",3,$729.99,15.50,Samsung,LED,70,4K
+94,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q80BAFXZC) - Titan Black",147,$1499.99,$20,Samsung,LED,65,4K
+95,"Sony X80K 50"" 4K UHD HDR LED Smart Google TV (KD50X80K) - 2022",459,$829.99,15.50,Sony,LED,50,4K
+96,"Sony BRAVIA XR A95K 55"" 4K UHD HDR OLED Smart Google TV (XR55A95K) - 2022",325,$3499.99,0,Sony,OLED,55,4K
+97,"Amazon Fire TV 4-Series 50"" 4K UHD HDR LED Smart TV (B08T6G1DCB) - 2021",16,$429.99,$90,Amazon fire TV,LED,50,4K
+98,"Samsung 85"" 4K UHD HDR LED Tizen OS Smart TV (UN85TU7000FXZC) - 2020 - Titan Grey - Open Box",0,$1439.99,15.50,Samsung,LED,85,4K
+99,"LG 55"" 4K UHD HDR LED webOS Smart TV (55UQ7590PUB) - 2022 - Dark Iron Grey",41,$699.99,$50,LG,LED,55,4K
+100,"TCL 6-Series 55"" 4K UHD HDR QLED Mini-LED Roku OS Smart TV (55R635-CA)",1032,$849.98,15.50,NA,LED,55,4K
+101,"Samsung 65"" 4K UHD HDR QLED Smart TV (QN65Q70CAFXZC) - 2023",33,$1599.99,15.50,Samsung,LED,65,4K
+102,"LG 65"" 4K UHD HDR LED webOS Smart TV (65UQ7590PUB) - 2022 - Dark Iron Grey",26,$899.99,$300,LG,LED,65,4K
+103,"TCL 5-Series 75"" 4K UHD HDR QLED Roku OS Smart TV (75S535-CA)",188,$999.99,15.50,NA,LED,75,4K
+104,"Sony X85K 65"" 4K UHD HDR LED Smart Google TV (KD65X85K) - 2022",426,$1399.99,15.50,Sony,LED,65,4K
+105,"LG G3 77"" 4K UHD HDR OLED evo Gallery webOS Smart TV (OLED77G3PUA) - 2023 - Satin Silver",32,$5999.99,0,LG,OLED,77,4K
+106,"TCL 4-Series 65"" 4K UHD HDR LED Roku Smart TV (65S455-CA) - 2022",703,$699.95,$50,NA,LED,65,4K
+107,"TCL 5-Series 65"" 4K UHD HDR QLED Smart Google TV (65S546-CA) - 2021",217,$849.99,$113,NA,LED,65,4K
+108,"LG 70"" 4K UHD HDR LED webOS Smart TV (70UQ7590PUB) - 2022 - Dark Iron Grey",710,$999.99,0,LG,LED,70,4K
+109,"TCL 50"" S-Series 4K UHD HDR LED Smart Google TV (50S450G-CA) - 2023",0,$399.99,0,NA,LED,50,4K
+110,"TCL 75"" QM-Series 4K UHD HDR QLED Smart Google TV (75QM850G-CA) - 2023",2,$2499.99,$100,TCL 75,LED,75,4K
+111,"Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65CU8000FXZC) - 2023",66,$999.99,$100,Samsung,LED,65,4K
+112,"LG 50"" 4K UHD HDR LED webOS Smart TV (50NANO75UQA) - 2022 - Ashed Blue",448,$649.99,$400,LG,LED,50,4K
+113,"LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue",306,$1799.99,15.50,LG,QNED,65,4K
+114,"Samsung 55"" 4K UHD HDR QLED Smart TV (QN55Q70CAFXZC) - 2023",33,$1199.99,12.20,Samsung,LED,55,4K
+115,"Sony X85K 43"" 4K UHD HDR LED Smart Google TV (KD43X85K) - 2022",452,$849.99,$300,Sony,LED,43,4K
+116,"LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO75UQA) - 2022 - Ashed Blue",375,$1299.99,0,LG,LED,75,4K
+117,"TCL 65"" Q-Series 4K UHD HDR QLED Smart Google TV (65Q650G-CA) - 2023",1,$749.99,15.50,NA,LED,65,4K
+118,"Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55AU8000FXZC) - 2021",5279,$749.95,0,Samsung,LED,55,4K
+119,"TCL 6-Series 55"" 4K UHD HDR QLED Mini-LED Smart Google TV (55R646-CA) - 2021",581,$899.99,15.50,NA,LED,55,4K
+120,"Samsung 55"" 4K UHD HDR QLED Smart TV (QN55Q60CAFXZC) - 2023 - Titan Grey",98,$999.99,7.50,Samsung,LED,55,4K
+121,"Insignia 24"" 720p LED TV (NS-24D310CA21) - 2020 - Only at Best Buy",14,$249.99,$50,Insignia,LED,24,720p
+122,"LG 55"" 4K UHD HDR LED webOS Smart TV (55NANO75UQA) - 2022 - Ashed Blue",439,$749.99,0,LG,LED,55,4K
+123,"TCL 6-Series 65"" 4K UHD HDR QLED Mini-LED Roku OS Smart TV (65R635-CA)",694,$1299.99,15.50,NA,LED,65,4K
+124,"Sony BRAVIA XR 77"" 4K UHD HDR OLED Google TV Smart TV (XR77A80K) - 2022 - Titanium Black",1018,$3999.99,0,Sony,OLED,77,4K
+125,"TCL 55"" Q-Series 4K UHD HDR QLED Smart Google TV (55Q750G-CA) - 2023",2,$899.99,15.50,NA,LED,55,4K
+126,"Sony X80K 75"" 4K UHD HDR LED Smart Google TV (KD75X80K) - 2022",460,$1699.99,15.50,Sony,LED,75,4K
+127,"Samsung 58"" 4K UHD HDR LED Tizen Smart TV (UN58CU7000FXZC) - 2023 - Titan Grey",117,$849.99,15.50,Samsung,LED,58,4K
+128,"Sony X80K 85"" 4K UHD HDR LED Smart Google TV (KD85X80K) - 2022",263,$2399.99,15.50,Sony,LED,85,4K
+129,"LG G3 55"" 4K UHD HDR OLED evo Gallery webOS Smart TV (OLED55G3PUA) - 2023 - Satin Silver",31,$3099.99,$15,LG,OLED,55,4K
+130,"Open Box - Samsung 32"" 1080p HD LED Tizen Smart TV (UN32N5300AFXZC) - Glossy Black",7557,$239.99,$30,Samsung,LED,32,1080p
+131,"Open Box - Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55TU690TFXZC) - 2022",1,$479.99,$100,Samsung,LED,55,4K
+132,"Samsung 65"" 4K UHD HDR Neo QLED Tizen Smart TV (QN65QN90CAFXZC) - 2023 - Titan Black",14,$3199.99,$100,Samsung,LED,65,4K
+133,"LG 55"" 4K UHD HDR QNED webOS Smart TV (55QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",724,$999.99,12.20,LG,QNED,55,4K
+134,"Samsung 43"" 4K UHD HDR QLED Tizen Smart TV (QN43QN90BAFXZC) - Titan Black",138,$1599.95,$50,Samsung,LED,43,4K
+135,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q75AAFXZC) - Only at Best Buy - Open Box",0,$799.99,"$3,999.99",Samsung,LED,55,4K
+136,"Samsung 65"" 4K UHD HDR OLED Tizen Smart TV (QN65S95CAFXZC) - 2023 - Titan Black",57,NA,0,Samsung,OLED,65,4K
+137,"TCL 55"" S-Series 4K UHD HDR LED Smart Google TV (55S450G-CA) - 2023",0,$449.99,15.50,NA,LED,55,4K
+138,"Sony BRAVIA XR A90K 48"" 4K UHD HDR OLED Smart Google TV (XR48A90K) - 2022",445,$1899.99,0,Sony,OLED,48,4K
+139,"TCL 65"" Q-Series 4K UHD HDR QLED Smart Google TV (65Q750G-CA) - 2023",0,$1099.99,12.20,NA,LED,65,4K
+140,"LG OLED Flex 42"" 4K UHD HDR Curved OLED webOS Smart TV (42LX3QPUA)",4,$3999.99,0,LG,OLED,42,4K
+141,"TCL 43"" S-Series 4K UHD HDR LED Smart Google TV (43S450G-CA) - 2023",0,$329.99,$23,NA,LED,43,4K
+142,"Open Box - Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43TU7000FXZC) - Titan Grey",14,$359.99,0,Samsung,LED,43,4K
+143,"Open Box - Insignia 24"" 720p LED TV (NS-24D310CA21) - 2020 - Only at Best Buy",5,$149.99,0,Insignia,LED,24,720p
+144,"Toshiba 43"" 1080p HD LED Smart TV (43V35C) - Fire TV Edition - 2021",6,$449.99,0,Toshiba,LED,43,1080p
+145,"Samsung The Frame 85"" 4K UHD HDR QLED Tizen Smart TV (QN85LS03BAFXZC) - 2022 - Charcoal Black",410,$5499.99,15.50,Samsung,LED,85,4K
+146,"Sony X85K 55"" 4K UHD HDR LED Smart Google TV (KD55X85K) - 2022",286,$1099.99,15.50,Sony,LED,55,4K
+147,"Sony X85K 50"" 4K UHD HDR LED Smart Google TV (KD50X85K) - 2022",176,$949.99,15.50,Sony,LED,50,4K
+148,"LG 77"" 4K UHD HDR OLED webOS ThinQ AI Smart TV (OLED77B2PUA) - 2022",821,$2999.99,15.50,LG,OLED,77,4K
+149,"Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75TU690TFXZC) - 2022 - Only at Best Buy",1575,$1399.99,$100,Samsung,LED,75,4K
+150,"Insignia 70"" 4K UHD HDR LCD Fire OS Smart TV (NS-70F301CA23) - 2022",1,$699.99,15.50,Insignia,LCD,70,4K
+151,"Samsung 55"" 4K UHD HDR Neo QLED Tizen Smart TV (QN55QN88BAFXZC) - Titan Black - Only at Best Buy",3,$1599.99,$300,Samsung,LED,55,4K
+152,"Samsung 75"" 4K UHD HDR Neo QLED Tizen Smart TV (QN75QN90CAFXZC) - 2023 - Titan Black",8,$4299.99,15.50,Samsung,LED,75,4K
+153,"LG NanoCell 70"" 4K UHD HDR LED webOS Smart TV (70NANO75UQA) - 2022 - Ashed Blue",489,$1199.99,$900,LG,LED,70,4K
+154,"LG 75"" 4K UHD HDR QNED webOS Smart TV (75QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",586,$1799.99,12.20,LG,QNED,75,4K
+155,"Toshiba 43"" 4K UHD HDR LED Smart TV (43C350KC) - Fire TV Edition - 2021 - Only at Best Buy",11,$529.99,$100,Toshiba,LED,43,4K
+156,"Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75CU7000FXZC) - 2023 - Titan Grey",156,$1399.99,7.50,Samsung,LED,75,4K
+157,"Insignia 24"" 1080p FHD LED Smart TV (NS-24F202CA23) - Fire TV Edition - 2022 - Only at Best Buy",436,$299.99,0,Insignia,LED,24,1080p
+158,"Samsung 98"" 8K UHD HDR QLED Tizen Smart TV (QN98Q900RBFXZC)",161,$99999.99,"$3,000",Samsung,LED,98,NA
+159,"Sony BRAVIA XR 100"" 4K UHD HDR LED Google Smart TV (XR100X92) - 2021",8,$16999.99,0,Sony,LED,100,4K
+160,"Samsung The Frame 32"" 1080p HD HDR QLED Tizen Smart TV (QN32LS03BBFXZC) - 2022 - Charcoal Black",8,$699.95,$100,Samsung,LED,32,1080p
+161,"Samsung 65"" 4K UHD HDR QLED Smart TV (QN65Q80CAFXZC) - 2023 - Titan Black",23,$1699.99,15.50,Samsung,LED,65,4K
+162,"Sony BRAVIA XR X90J 50"" 4K UHD HDR LED Smart Google TV (XR50X90J) - 2021",4975,$1199.99,15.50,Sony,LED,50,4K
+163,"Sony X85K 75"" 4K UHD HDR LED Smart Google TV (KD75X85K) - 2022",242,$1899.99,15.50,Sony,LED,75,4K
+164,"LG 77"" G2 4K UHD HDR OLED webOS Evo Gallery Smart TV (OLED77G2PUA) - 2022 - Satin Silver",190,$6999.99,12.20,LG,OLED,77,4K
+165,"Samsung 43"" 4K UHD HDR QLED Smart TV (QN43Q60CAFXZC) - 2023 - Titan Grey",105,$749.99,12.20,Samsung,LED,43,4K
+166,"Sony BRAVIA XR A90K 42"" 4K UHD HDR OLED Smart Google TV (XR42A90K) - 2022",151,$1749.99,0,Sony,OLED,42,4K
+167,"TCL 32"" S-Series 1080p HD HDR LED Smart Google TV (32S350G-CA) - 2023",0,$199.99,$100,NA,LED,32,1080p
+168,"Samsung 50"" 4K UHD HDR QLED Smart TV (QN50Q80CAFXZC) - 2023 - Titan Black",23,$1199.99,$65,Samsung,LED,50,4K
+169,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q75AAFXZC) - Only at Best Buy - Open Box",4,$1039.99,$60,Samsung,LED,65,4K
+170,"Samsung The Frame 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS03BAFXZC) -2022 -Charcoal Black -Open Box",1,$959.99,0,Samsung,LED,43,4K
+171,"TCL 6-Series 75"" 4K UHD HDR QLED Roku OS Smart TV (75R635-CA)",435,$1999.99,$150,NA,LED,75,4K
+172,"Samsung 75"" 4K UHD Neo QLED Tizen Smart TV (QN75QN90BAFXZC) - Titan Black - Open Box",0,$2399.99,15.50,Samsung,LED,75,4K
+173,"LG G3 83"" 4K UHD HDR OLED evo Gallery webOS Smart TV (OLED83G3PUA) - 2023 - Satin Silver",18,$7999.99,15.50,LG,OLED,83,4K
+174,"Samsung 85"" 4K UHD HDR LED Tizen Smart TV (UN85CU7000FXZC) - 2023 - Titan Grey",120,$2199.99,12.20,Samsung,LED,85,4K
+175,"LG 43"" 4K UHD HDR LED webOS Smart TV (43UQ7590PUB) - 2022 - Dark Iron Grey - Open Box",0,$399.99,$200,LG,LED,43,4K
+176,"Sony BRAVIA XR A95K 65"" 4K UHD HDR OLED Smart Google TV (XR65A95K) - 2022 - Open Box",1,$3199.99,$200,Sony,OLED,65,4K
+177,"Samsung 85"" 4K UHD HDR LED Tizen Smart TV (UN85CU8000FXZC) - 2023",79,$2299.99,15.50,Samsung,LED,85,4K
+178,"Samsung 50"" 4K UHD HDR QLED Smart TV (QN50Q60CAFXZC) - 2023 - Titan Grey",95,$849.99,12.20,Samsung,LED,50,4K
+179,"Open Box - Insignia 32"" 720p HD LED TV (NS-32D310CA21) - 2020 - Only at Best Buy",1,$179.99,$18,Insignia,LED,32,720p
+180,"Open Box - Samsung 43"" 1080p HD LED Tizen Smart TV (UN43N5300AFXZC) - Glossy Black",2,$279.99,$300,Samsung,LED,43,1080p
+181,"Toshiba 75"" 4K UHD HDR LED Smart TV (75C350KC) - Fire TV Edition - 2021 - Only at Best Buy",4,$999.99,$64,Toshiba,LED,75,4K
+182,"Sony X75K 65"" 4K UHD HDR LED Smart Google TV (KD65X75K) - 2022 - Open Box",0,$679.99,0,Sony,LED,65,4K
+183,"TCL 75"" Q-Series 4K UHD HDR QLED Smart Google TV (75Q650G-CA) - 2023",0,$1199.99,15.50,TCL 75,LED,75,4K
+184,"LG NanoCell 86"" 4K UHD HDR LED webOS Smart TV (86NANO75UQA) - 2022 - Ashed Blue",1,$1999.99,$500,LG,LED,86,4K
+185,"Samsung The Serif 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS01BAFXZC) - 2022 - Cloud White",47,$2099.99,12.20,Samsung,LED,65,4K
+186,"Open Box - Insignia 32"" 1080p FHD LED Smart TV (NS-32F202CA23) - Fire TV Edition - 2022",2,$169.99,15.50,Insignia,LED,32,1080p
+187,"Sony X85K 85"" 4K UHD HDR LED Smart Google TV (KD85X85K) - 2022",273,$2499.99,$150,Sony,LED,85,4K
+188,"Insignia 65"" 4K UHD HDR LCD Smart TV (NS-65DF710CA21) - Fire TV Edition - 2020 - Only at Best Buy",1871,$599.97,15.50,Insignia,LCD,65,4K
+189,"Open Box - Samsung 70"" 4K UHD HDR LED Tizen Smart TV (UN70TU7000FXZC) - Titan Grey",0,$799.99,15.50,Samsung,LED,70,4K
+190,"Sony BRAVIA XR X95K 75"" 4K UHD HDR Mini-LED Smart Google TV (XR75X95K) - 2022",192,$4199.97,$200,Sony,LED,75,4K
+191,"Samsung The Serif 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS01BAFXZC) - 2022 - Cloud White",48,$1099.99,$500,Samsung,LED,43,4K
+192,"Samsung The Terrace 55"" 4K UHD HDR QLED Tizen Outdoor Smart TV (QN55LST7TAFXZC) - Titan Black",4,$3499.99,$300,Samsung,LED,55,4K
+193,"Samsung 85"" 4K UHD HDR Neo QLED Tizen Smart TV (QN85QN90CAFXZC) - 2023 - Titan Black",5,$5999.99,0,Samsung,LED,85,4K
+194,"TCL 3-Series 32"" 1080p HD LED Smart Google TV (32S356-CA) - 2022",3,$199.99,$55,NA,LED,32,1080p
+195,"Sony X80K 65"" 4K UHD HDR LED Smart Google TV (KD65X80K) - 2022 - Open Box",4,$879.99,$500,Sony,LED,65,4K
+196,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q80BAFXZC) - Titan Black",132,$1999.97,$25,Samsung,LED,75,4K
+197,"Open Box - Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43AU8000FXZC) - 2021",2,$399.99,0,Samsung,LED,43,4K
+198,"TCL 4-Series 75"" 4K UHD LED Direct Lit Roku OS Smart TV (75S45-CA) - 2022",161,$899.99,12.20,NA,LED,75,4K
+199,"Insignia 32"" 1080p FHD LED Smart TV (NS-32F202CA23) - Fire TV Edition - 2022 - Only at Best Buy",317,$349.99,15.50,Insignia,LED,32,1080p
+200,"Samsung 85"" 4K UHD HDR QLED Smart TV (QN85Q60CAFXZC) - 2023 - Titan Grey",94,$2899.99,15.50,Samsung,LED,85,4K
+201,"Samsung 50"" 4K UHD HDR LED Tizen Smart TV (UN50CU8000FXZC) - 2023",60,$749.99,$200,Samsung,LED,50,4K
+202,"Refurbished (Good) - Onn. 55"" Class 4K UHD HDR Roku Smart LED TV (100012586)",0,$299.99,0,NA,LED,55,4K
+203,"TCL 6-Series 65"" 4K UHD HDR QLED Mini-LED Smart Google TV (65R646-CA) - 2021",707,$1299.99,15.50,NA,LED,65,4K
+204,"Samsung 65"" 8K UHD Neo QLED Tizen Smart TV (QN65QN800BFXZC) - Stainless Steel",72,$3199.95,$59,Samsung,LED,65,NA
+205,"Sony X80K 50"" 4K UHD HDR LED Smart Google TV (KD50X80K) - 2022 - Open Box",2,$663.99,$750,Sony,LED,50,4K
+206,Samsung – 65 Inch QN90B Neo QLED 4K UHD HDR 32X Dolby Atmos Gaming Smart TV [QN65QN90BAFXZC] [Canada Version] (2022) - Open Box - 10/10 Condition,0,$1549.99,$300,Samsung,LED,NA,4K
+207,"LG 70"" 4K UHD HDR LED webOS Smart TV (70UQ9000PUD) - 2022 - Titan Grey",4,$999.99,0,LG,LED,70,4K
+208,"TCL 75"" Q-Series 4K UHD HDR QLED Smart Google TV (75Q750G-CA) - 2023",0,$1599.99,15.50,TCL 75,LED,75,4K
+209,"LG 48"" 4K UHD HDR OLED webOS ThinQ AI Smart TV (OLED48A2PUA) - 2022",897,$1499.99,12.20,LG,OLED,48,4K
+210,"Samsung 32"" 1080p HD HDR QLED Tizen Smart TV (QN32Q50AAFXZC) - 2021",49,$499.95,"$6,299.99",Samsung,LED,32,1080p
+211,"Samsung 65"" 8K UHD HDR Neo QLED Tizen Smart TV (QN65QN900CFXZC) - 2023 - Titan Black",44,NA,0,Samsung,LED,65,NA
+212,"TCL 3-Series 32"" 1080p HD LED Roku Smart TV (32S327-CA)",309,$199.97,$100,NA,LED,32,1080p
+213,"TCL 4-Series 75"" 4K UHD HDR LED Roku Smart TV (75S455-CA) - 2022",194,$999.99,$65,NA,LED,75,4K
+214,"Open Box - Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75AU8000FXZC) - 2021",1,$1039.99,15.50,Samsung,LED,75,4K
+215,"Samsung 75"" 4K UHD HDR QLED Smart TV (QN75Q60CAFXZC) - 2023 - Titan Grey",96,$1999.99,15.50,Samsung,LED,75,4K
+216,"Toshiba 65"" 4K UHD HDR LED Smart TV (65C350KC) - Fire TV Edition - 2021 - Only at Best Buy",4,$949.99,15.50,Toshiba,LED,65,4K
+217,"LG 50"" 4K UHD HDR LED webOS Smart TV (50UQ7570PUJ) - 2023 - Black",0,$529.99,"$8,299.99",LG,LED,50,4K
+218,"Samsung 75"" 8K UHD HDR Neo QLED Tizen Smart TV (QN75QN900CFXZC) - 2023 - Titan Black",27,NA,15.50,Samsung,LED,75,NA
+219,"Hisense 65"" 4K UHD HDR LED Android Smart TV (65A68G) - 2021",10,$659.97,15.50,Hisense,LED,65,4K
+220,"Samsung 75"" 4K UHD HDR QLED Smart TV (QN75Q70CAFXZC) - 2023",32,$2299.99,$500,Samsung,LED,75,4K
+221,"TCL 6-Series 75"" 8K UHD HDR QLED Roku OS Smart TV (75R648-CA) - 2021",19,$2299.99,"$7,699.99",NA,LED,75,NA
+222,"Samsung 85"" 8K UHD HDR Neo QLED Tizen Smart TV (QN85QN800CFXZC) - 2023 - Titan Black",8,NA,12.20,Samsung,LED,85,NA
+223,"Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43CU8000FXZC) - 2023",57,$649.99,$200,Samsung,LED,43,4K
+224,"TCL 4-Series 55"" 4K UHD HDR LED Smart Google TV (55S446-CA) - 2021 -Open Box",0,$399.99,"$4,299.99",NA,LED,55,4K
+225,"Samsung 65"" 8K UHD HDR Neo QLED Tizen Smart TV (QN65QN800CFXZC) - 2023 - Titan Black",12,NA,$43,Samsung,LED,65,NA
+226,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q60BAFXZC) - Titan Grey - Open Box",2,$679.99,0,Samsung,LED,55,4K
+227,"Sony X80K 43"" 4K UHD HDR LED Smart Google TV (KD43X80K) - 2022 - Open Box",1,$599.99,12.20,Sony,LED,43,4K
+228,"Samsung 32"" 4K UHD HDR QLED Tizen Smart TV (QN32Q60AAFXZC) - 2021 - Titan Grey",848,$599.95,15.50,Samsung,LED,32,4K
+229,"LG 50"" 4K UHD HDR LED webOS Smart TV (50UQ7590PUB) - 2022 - Dark Iron Grey - Open Box",1,$519.99,$50,LG,LED,50,4K
+230,"TCL 4-Series 65"" 4K UHD HDR LED Android Smart TV (65S434-CA) - 2021",128,$649.99,$100,NA,LED,65,4K
+231,"Samsung 75"" 4K UHD HDR QLED Smart TV (QN75Q80CAFXZC) - 2023 - Titan Black",23,$2599.99,12.20,Samsung,LED,75,4K
+232,"Open Box - Insignia 40"" 1080p HDR LED TV (NS-40D510CA21) - 2020",0,$259.99,0,Insignia,LED,40,1080p
+233,"Amazon Fire TV Omni 43"" 4K UHD HDR LED Smart TV (B08T6LD72Q) - 2021",5,$429.97,$100,Amazon fire TV,LED,43,4K
+234,"Samsung 55"" 4K UHD HDR Neo QLED Tizen Smart TV (QN55QN90CAFXZC) - 2023 - Titan Black",4,$2299.99,$60,Samsung,LED,55,4K
+235,"Sony BRAVIA 55"" 4K UHD HDR LED Google TV Smart TV (XR55X90K) - 2022 - Open Box",2,$959.99,15.50,Sony,LED,55,4K
+236,"Sony BRAVIA XR A90J 83"" 4K UHD HDR OLED Smart Google TV (XR83A90J) - 2021",984,$7199.99,15.50,Sony,OLED,83,4K
+237,"Open Box - Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55AU8000FXZC) - 2021",2,$599.99,15.50,Samsung,LED,55,4K
+238,"Samsung 85"" 4K UHD HDR QLED Smart TV (QN85Q70CAFXZC) - 2023",33,$3199.99,15.50,Samsung,LED,85,4K
+239,"Samsung 65"" 4K UHD QLED Tizen OS Smart TV (QN65QN85CAFXZC) - 2023 - Titan Black",20,$2499.99,$115,Samsung,LED,65,4K
+240,"Samsung The Frame 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS03BAFXZC) -2022 -Charcoal Black -Open Box",0,$1839.99,0,Samsung,LED,65,4K
+241,"Toshiba 32"" 720p HD LED Smart TV (32V35C) - Fire TV Edition - 2021",9,$349.99,15.50,Toshiba,LED,32,720p
+242,"Sony 85"" 4K UHD HDR LED Smart Google TV (XR85X95L) - 2023",0,$6999.99,15.50,Sony,LED,85,4K
+243,"LG 48"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED48C2PUA) - 2022 - Dark Titan Silver - Open Box",0,$1359.99,0,LG,OLED,48,4K
+244,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q60BAFXZC) - Titan Grey - Open Box",0,$959.99,$400,Samsung,LED,65,4K
+245,"LG 65"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED65C2PUA) - 2022 - Dark Titan Silver OPEN BOX 10/10",0,$1999.99,$95,LG,OLED,65,4K
+246,"Samsung 55"" 4K UHD OLED Tizen Smart TV (QN55S95BAFXZC) - Open Box",6,$1519.99,15.50,Samsung,OLED,55,4K
+247,"Sony 65"" 4K UHD HDR LED Smart Google TV (XR65X93L) - 2023",0,$3099.99,15.50,Sony,LED,65,4K
+248,"Samsung 98"" 4K UHD HDR QLED Tizen OS Smart TV (QN98QN90AAFXZC) - 2021 - Titan Black - Open Box",0,$16799.99,$80,Samsung,LED,98,4K
+249,"Sony BRAVIA XR 65"" 4K UHD HDR OLED Google TV Smart TV (XR65A80K) - 2022 - Titanium Black - Open Box",1,$1919.99,$500,Sony,OLED,65,4K
+250,"Samsung 65"" 4K UHD HDR Neo QLED Tizen Smart TV (QN65QN88BAFXZC) - Titan Black - Only at Best Buy",7,$2099.97,15.50,Samsung,LED,65,4K
+251,"LG 83"" G2 4K UHD HDR OLED webOS Evo Gallery Smart TV (OLED83G2PUA) - 2022 - Satin Silver",0,$9999.99,15.50,LG,OLED,83,4K
+252,"LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65A1PUA) - 2021 - Open Box",883,$1444.99,$340,LG,OLED,65,4K
+253,"Refurbished (Good) - VIZIO 65"" Class 4k UHD LED SmartCast Smart TV HDR V-Series (V655-J)",0,$449.99,15.50,VIZIO,LED,65,NA
+254,"Samsung 55"" 4K UHD HDR OLED Tizen Smart TV (QN55S90CAFXZC) - 2023 - Titan Black",18,$2399.99,0,Samsung,OLED,55,4K
+255,"TCL 4-Series 65"" 4K UHD HDR LED Smart Google TV (65S446-CA) - 2021",277,$699.99,0,NA,LED,65,4K
+256,"Sony X80K 55"" 4K UHD HDR LED Smart Google TV (KD55X80K) - 2022 - Open Box",2,$719.99,$250,Sony,LED,55,4K
+257,"Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55TU7000FXZC) - Titan Grey OPEN BOX with One Year DC Canada Warranty",0,$549.99,$200,Samsung,LED,55,4K
+258,"TCL 4-Series 43"" 4K UHD HDR LED Smart Google TV (43S446-CA) - 2021 - Open Box",0,$299.99,$600,NA,LED,43,4K
+259,"Samsung The Terrace 65"" 4K UHD HDR QLED Tizen Outdoor Smart TV (QN65LST7TAFXZC) - Titan Black",4,$4899.99,$100,Samsung,LED,65,4K
+260,"Samsung 43"" 4K UHD HDR Neo QLED Tizen Smart TV (QN43QN90CAFXZC) - 2023 - Titan Black",8,$1599.99,0,Samsung,LED,43,4K
+261,"Samsung The Frame 75"" 4K UHD HDR QLED Tizen Smart TV (QN75LS03BAFXZC) -2022 -Black -Open Box",0,$2399.99,15.50,Samsung,LED,75,4K
+262,"Samsung 55"" 4K UHD HDR OLED Tizen Smart TV (QN55S92CAFXZC) - 2023 - Titan Black",0,$2499.99,15.50,Samsung,OLED,55,4K
+263,"Open Box - Sony 85"" 4K UHD HDR LED Google Smart TV (KD85X85J) - 2021",0,$1989.99,$20,Sony,LED,85,4K
+264,"Sony W830K 32"" 720p HD HDR LED Smart Google TV (KD32W830K) - 2022 - Open Box",0,$319.99,$450,Sony,LED,32,720p
+265,"Refurbished (Good) - SAMSUNG 65"" Class TU700D-Series Crystal Ultra HD 4K Smart TV ( UN65TU7000B)",0,$549.99,$20,Samsung,NA,65,Ultra HD
+266,"Open Box - LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65B2PUA) - 2022",0,$1439.99,$201,LG,OLED,65,4K
+267,"LG 50"" 4K UHD HDR QNED webOS Smart TV (50QNED80URA) - 2023 - Ashed Blue",6,$998.98,15.50,LG,QNED,50,4K
+268,"Sony 77"" 4K UHD HDR OLED Smart Google TV (XR77A80L) - 2023",0,$4999.99,$95,Sony,OLED,77,4K
+269,"Sony BRAVIA XR 55"" 4K UHD HDR OLED Google TV Smart TV (XR55A80K) - 2022 - Titanium Black - Open Box",0,$1519.99,$500,Sony,OLED,55,4K
+270,"Open Box 10/10 - LG 55"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED55C2PUA) - 2022 - Dark Titan Silver",0,$1299.99,15.50,LG,OLED,55,4K
+271,"Open Box - Samsung 50"" 4K UHD HDR QLED Tizen OS Smart TV (QN50Q80AAFXZC) - 2021 - Titan Black",2,$934.99,"$1,000",Samsung,LED,50,4K
+272,"Sony BRAVIA XR Z9K 85"" 8K UHD HDR Mini-LED Smart Google TV (XR85Z9K) - 2022",9,$10999.99,15.50,Sony,LED,85,NA
+273,"LG NanoCell 86"" 4K UHD HDR LED webOS Smart TV (86NANO75UPA) - 2021 - Open Box",877,$1699.99,0,LG,LED,86,4K
+274,"TCL 32"" S-Series 720p HD LED Roku OS Smart TV (32S250R-CA) - 2023",0,$179.99,$45,NA,LED,32,720p
+275,"Samsung 85"" 4K UHD HDR QLED Tizen Smart TV (QN85Q75AAFXZC) - Only at Best Buy - Open Box",0,$2079.99,$100,Samsung,LED,85,4K
+276,"Samsung The Serif 55"" 4K UHD HDR QLED Tizen Smart TV (QN55LS01BAFXZC) - 2022 - Cloud White",47,$1499.99,$300,Samsung,LED,55,4K
+277,"LG 86"" 4K UHD HDR QNED webOS Smart TV (86QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue",2,$4499.99,15.50,LG,QNED,86,4K
+278,"LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65C1AUB) - 2021",3498,$2099.97,15.50,LG,OLED,65,4K
+279,"Samsung 65"" 4K UHD HDR OLED Tizen Smart TV (QN65S90CAFXZC) - 2023 - Titan Black",26,$3299.99,15.50,Samsung,OLED,65,4K
+280,"Samsung 65"" 4K UHD HDR OLED Tizen Smart TV (QN65S92CAFXZC) - 2023 - Titan Black",0,$3399.99,$175,Samsung,OLED,65,4K
+281,"LG 55"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED55C2PUA) - 2022 - Dark Titan Silver - Open Box",2,$1439.99,15.50,LG,OLED,55,4K
+282,"LG 50"" 4K UHD HDR LED webOS Smart TV (50UQ9000PUD) - 2022 - Titan Grey",604,$799.99,0,LG,LED,50,4K
+283,"TCL Class XL 98"" 4K UHD HDR QLED Smart Google TV (98R754-CA) - 2022",0,$9999.99,$300,NA,LED,98,4K
+284,"LG 75"" 4K UHD HDR QNED webOS Smart TV (75QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue",235,$2999.99,15.50,LG,QNED,75,4K
+285,"LG 55"" 4K UHD HDR QNED webOS Smart TV (55QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue",297,$1499.99,$35,LG,QNED,55,4K
+286,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q80BAFXZC) - Titan Black - Open Box",1,$899.99,0,Samsung,LED,55,4K
+287,"Philips 50"" 4K UHD HDR LCD Direct Lit Roku Smart TV (50PUL6673/F6) - 2023",0,$449.99,0,NA,LCD,50,4K
+288,"Samsung 50"" 4K UHD HDR Neo QLED Tizen Smart TV (QN50QN90CAFXZC) - 2023 - Titan Black",7,$1999.99,$80,Samsung,LED,50,4K
+289,"Refurbished (Good) - ONN. 32"" Class HD (720P) Roku Smart LED TV (100012589)",0,$119.99,15.50,NA,LED,32,NA
+290,"Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55CU8000FXZC) - 2023",70,$849.99,15.50,Samsung,LED,55,4K
+291,"Samsung 85"" 4K UHD QLED Tizen OS Smart TV (QN85QN85CAFXZC) - 2023 - Titan Black",16,$4999.99,15.50,Samsung,LED,85,4K
+292,"Sony 65"" 4K UHD HDR OLED Smart Google TV (XR65A80L) - 2023",0,$3299.99,15.50,Sony,OLED,65,4K
+293,"Samsung 75"" 8K UHD QLED Tizen Smart TV (QN75QN900BFXZC) - Stainless Steel",35,$6499.95,15.50,Samsung,LED,75,NA
+294,"Open Box - Samsung 85"" 4K UHD HDR QLED Tizen OS Smart TV (QN85Q70AAFXZC) - 2021",1,$2299.99,$500,Samsung,LED,85,4K
+295,"TCL 6-Series 65"" 8K UHD HDR QLED Roku OS Smart TV (65R648-CA) - 2021",26,$1999.99,15.50,NA,LED,65,NA
+296,"Sony 75"" 4K UHD HDR LED Smart Google TV (XR75X93L) - 2023",0,$4199.99,$700,Sony,LED,75,4K
+297,"Samsung The Terrace 75"" 4K UHD HDR QLED Tizen Outdoor Smart TV (QN75LST7TAFXZC) - Titan Black",5,$6299.99,$500,Samsung,LED,75,4K
+298,Samsung – 75 inch Q80B QLED 4K UHD HDR 12X Full Array Dolby Atmos® Gaming Smart TV [QN75Q80BAFXZC] - Open Box - 10/10 Condition,0,$1499.99,$319,Samsung,LED,NA,4K
+299,"Samsung The Frame 50"" 4K UHD HDR QLED Tizen Smart TV (QN50LS03BAFXZC) -2022 -Charcoal Black -Open Box",0,$1079.99,12.20,Samsung,LED,50,4K
+300,"Sony X85K 43"" 4K UHD HDR LED Smart Google TV (KD43X85K) - 2022 - Open Box",0,$679.99,$75,Sony,LED,43,4K
+301,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q80BAFXZC) - Titan Black - Open Box",2,$1199.99,15.50,Samsung,LED,65,4K
+302,"Samsung 85"" 8K UHD QLED Tizen Smart TV (QN85QN900BFXZC) - Stainless Steel",35,$8499.95,$500,Samsung,LED,85,NA
+303,"Sony BRAVIA XR Z9K 75"" 8K UHD HDR Mini-LED Smart Google TV (XR75Z9K) - 2022",10,$7499.99,"$1,300",Sony,LED,75,NA
+304,Samsung – 75 Inch QN90B Neo QLED 4K UHD HDR 32X Dolby Atmos Gaming Smart TV [QN75QN90BAFXZC] [Canada Version] (2022),0,$2699.99,$200,Samsung,LED,NA,4K
+305,"Refurbished (Good) onn. 50” QLED 4K UHD (2160p) Roku Smart TV with Dolby Atmos, Dolby Vision, Local Dimming, 120hz Effective Refresh Rate, and HDR (100071700)",0,$349.99,$70,NA,LED,NA,4K
+306,"Refurbished (Good) - VIZIO 24"" Class HD LED Smart TV D-Series (D24h-J09)",1,$129.99,15.50,VIZIO,LED,24,NA
+307,"Samsung 75"" 4K UHD QLED Tizen OS Smart TV (QN75QN85CAFXZC) - 2023 - Titan Black",16,$3499.99,$115,Samsung,LED,75,4K
+308,"Open Box - Samsung 32"" 4K UHD HDR QLED Tizen Smart TV (QN32Q60AAFXZC) - 2021 - Titan Grey",1,$479.99,15.50,Samsung,LED,32,4K
+309,"Open Box - Samsung 60"" 4K UHD HDR QLED Tizen Smart TV (QN60Q62AAFXZC) - Titan Grey - Only at Best Buy",0,$1019.99,0,Samsung,LED,60,4K
+310,"TCL 75"" S-Series 4K UHD HDR LED Smart Google TV (75S450G-CA) - 2023",0,$999.99,15.50,TCL 75,LED,75,4K
+311,"LG 65"" 4K UHD HDR LED webOS Smart TV (65UQ7590PUB) - 2022 - Dark Iron Grey - Open Box",0,$719.99,15.50,LG,LED,65,4K
+312,"Insignia 55"" 4K UHD HDR LCD Smart TV (NS-55F301CA22) - Fire TV Edition - 2020 - Only at Best Buy",3274,$549.95,$48,Insignia,LCD,55,4K
+313,"Sony X85K 50"" 4K UHD HDR LED Smart Google TV (KD50X85K) - 2022 - Open Box",1,$759.99,$223,Sony,LED,50,4K
+314,"Open Box - Samsung 50"" 4K UHD HDR LED Tizen Smart TV (UN50AU8000FXZC) - 2021",0,$574.99,$800,Samsung,LED,50,4K
+315,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q80BAFXZC) - Titan Black - Open Box",0,$699.99,$249,Samsung,LED,55,4K
+316,"Samsung 58"" 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey OPEN BOX",63,$549.99,$25,Samsung,LED,58,4K
+317,"Open Box - Samsung 32"" 1080p HD HDR QLED Tizen Smart TV (QN32Q50AAFXZC) - 2021",0,$399.99,$550,Samsung,LED,32,1080p
+318,"Open Box - Samsung 55"" 4K UHD OLED Tizen Smart TV (QN55S95BAFXZC)",3,$1349.99,0,Samsung,OLED,55,4K
+319,"Sony X80K 75"" 4K UHD HDR LED Smart Google TV (KD75X80K) - 2022 - Open Box",1,$1359.99,15.50,Sony,LED,75,4K
+320,"LG Objet Collection Posé 55"" 4K UHD HDR OLED webOS Smart TV (55LX1QPUA) - 2022",2,$2699.99,$100,LG,OLED,55,4K
+321,"Sony BRAVIA 75"" 4K UHD HDR LED Google TV Smart TV (XR75X90K) - 2022 - Open Box",0,$1599.99,15.50,Sony,LED,75,4K
+322,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q70AAFXZC) - 2021",6,$934.99,12.20,Samsung,LED,55,4K
+323,"Insignia 43"" 4K UHD HDR LED Smart TV (NS-43F301CA22) - Fire TV Editon - 2021 - Only at Best Buy",2143,$499.95,$60,Insignia,LED,43,4K
+324,"Open Box - Sony BRAVIA XR 50"" 4K UHD HDR LED Google Smart TV (XR50X90J) - 2021",4952,$959.99,15.50,Sony,LED,50,4K
+325,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q70AAFXZC) - 2021",2834,$2199.97,15.50,Samsung,LED,75,4K
+326,"LG 65"" G2 4K UHD HDR OLED webOS Evo Gallery Smart TV (OLED65G2PUA) - 2022 - Satin Silver - Open Box",646,$3199.99,15.50,LG,OLED,65,4K
+327,"Samsung 55"" 4K UHD HDR Curved LED Tizen OS Smart TV (UN55TU8300FXZC) - 2020 - Charcoal Black",10,$1399.99,$160,Samsung,LED,55,4K
+328,"Samsung 55"" 4K UHD Neo QLED Tizen Smart TV (QN55QN90BAFXZC) - Titan Black - Open Box",2,$1199.99,15.50,Samsung,LED,55,4K
+329,"Sony 65"" 4K UHD HDR LED Smart Google TV (XR65X90L) - 2023",0,$1999.99,15.50,Sony,LED,65,4K
+330,"LG 86"" 4K UHD HDR QNED webOS Smart TV (86QNED80URA) - 2023 - Dark Meteor Titan",6,$3299.99,15.50,LG,QNED,86,4K
+331,"Sony 55"" 4K UHD HDR OLED Smart Google TV (XR55A80L) - 2023",0,$2399.99,$113,Sony,OLED,55,4K
+332,"Refurbished (Good) - TCL 43"" Class 4-Series 4K UHD HDR Roku Smart TV (43S431)",0,$286.99,0,NA,NA,43,4K
+333,"TCL 85"" 4K UHD HDR LED Roku Smart TV (85S455-CA) - 2022",0,$1999.99,0,NA,LED,85,4K
+334,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q60AAFXZC) - 2021 - Titan Grey",1,$1019.99,$400,Samsung,LED,65,4K
+335,"REFURBISHED (GOOD) - TCL 75"" Class 4-Series 4K UHD HDR Smart Roku TV (75S451)",0,$599.99,$55,TCL 75,NA,75,4K
+336,"Sony X85K 55"" 4K UHD HDR LED Smart Google TV (KD55X85K) - 2022 - Open Box",1,$879.99,15.50,Sony,LED,55,4K
+337,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen OS Smart TV (QN65Q70AAFXZC) - 2021",0,$1274.99,$90,Samsung,LED,65,4K
+338,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q75AAFXZC) - Only at Best Buy - Open Box",0,$1439.99,"$5,799.99",Samsung,LED,75,4K
+339,"Samsung 75"" 8K UHD HDR Neo QLED Tizen Smart TV (QN75QN800CFXZC) - 2023 - Titan Black",5,NA,0,Samsung,LED,75,NA
+340,"Open Box - Samsung The Frame 43"" 4K UHD HDR QLED Tizen OS Smart TV (QN43LS03AAFXZC) - 2021",2,$934.99,15.50,Samsung,LED,43,4K
+341,"LG NanoCell 50"" 4K UHD HDR LED webOS Smart TV (50NANO85APA) - 2021",7,$899.97,15.50,LG,LED,50,4K
+342,"Samsung 77"" 4K UHD HDR OLED Tizen Smart TV (QN77S92CAFXZC) - 2023 - Titan Black",0,$4899.99,$300,Samsung,OLED,77,4K
+343,"Refurbished (Good) - Onn. 65"" Class 4K (2160p) UHD LED Roku Smart TV HDR (100012587)",0,$399.99,$500,NA,LED,65,4K
+344,"Open Box - Samsung 60"" QN60Q60BAFXZC - 4K UHD QLED LCD TV with One Year DC Canada Warranty",0,$799.99,$50,Samsung,LED,60,4K
+345,"Samsung 50"" 4K UHD HDR QLED Tizen Smart TV (QN50Q80BAFXZC) - Titan Black - Open Box",0,$799.99,15.50,Samsung,LED,50,4K
+346,"Open Box - Sony BRAVIA XR A90J 83"" 4K UHD HDR OLED Smart Google TV (XR83A90J) - 2021",0,$5759.99,0,Sony,OLED,83,4K
+347,"Open Box - Pioneer 43"" 4K UHD HDR LED Smart TV (PN43951-22C) - Fire TV Edition - 2021 - Only at Best Buy",5,$365.99,15.50,NA,LED,43,4K
+348,"Sony BRAVIA 65"" 4K UHD HDR LED Google TV Smart TV (XR65X90K) - 2022 - Open Box",3,$1199.99,15.50,Sony,LED,65,4K
+349,"Sony BRAVIA XR X95K 75"" 4K UHD HDR Mini-LED Smart Google TV (XR75X95K) - 2022 - Open Box",0,$3359.99,15.50,Sony,LED,75,4K
+350,"Sony 85"" 4K UHD HDR LED Smart Google TV (XR85X93L) - 2023",0,$6299.99,12.20,Sony,LED,85,4K
+351,"LG 43"" 4K UHD HDR LED webOS Smart TV (43UP7700PUB) - 2021",9,$649.97,15.50,LG,LED,43,4K
+352,"Sony BRAVIA XR Z9J 85"" 8K UHD HDR LED Smart Google TV (XR85Z9J) - 2021",44,$8999.95,$200,Sony,LED,85,NA
+353,"Sony BRAVIA XR 77"" 4K UHD HDR OLED Google TV Smart TV (XR77A80K) - 2022 - Titanium Black - Open Box",0,$3199.99,15.50,Sony,OLED,77,4K
+354,"LG 75"" 4K UHD HDR QNED webOS Smart TV (75QNED80URA) - 2023 - Ashed Blue",6,$2499.99,$300,LG,QNED,75,4K
+355,"Refurbished (Good) - VIZIO 70"" Class 4K UHD LED SmartCast Smart TV HDR V-Series (V705-J)",0,$499.99,0,VIZIO,LED,70,4K
+356,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q60AAFXZC) - 2021 - Titan Grey",1,$764.99,$140,Samsung,LED,55,4K
+357,"Sony BRAVIA 85"" 4K UHD HDR LED Google TV Smart TV (XR85X90K) - 2022 - Open Box",0,$2239.99,15.50,Sony,LED,85,4K
+358,"LG NanoCell 70"" 4K UHD HDR LED webOS Smart TV (70NANO75UQA) - 2022 - Ashed Blue - Open Box",0,$959.99,15.50,LG,LED,70,4K
+359,"Samsung 85"" 4K UHD HDR QLED Tizen OS Smart TV (QN85Q70AAFXZC) - 2021",2643,$2799.97,15.50,Samsung,LED,85,4K
+360,"Samsung 55"" 4K UHD QLED Tizen OS Smart TV (QN55QN85CAFXZC) - 2023 - Titan Black",11,$1899.99,$300,Samsung,LED,55,4K
+361,"Sony X80K 50"" 4K UHD HDR LED Smart Google TV (KD50X80K) - 2022 - Open Box",0,$599.99,$450,Sony,LED,50,4K
+362,"Refurbished (Good) - SAMSUNG 60"" Class 4K Crystal UHD (2160p) LED Smart TV with HDR (UN60TU7000)",1,$499.99,$60,Samsung,LED,60,4K
+363,"LG LED 24LJ4540 24"" HD 720p LED TV - 1366x768 - 14ms - 1000:1",277,$219.88,12.20,LG,LED,24,720p
+364,"Open Box - Insignia 42"" 1080p LED Smart TV (NS-42F201CA23) - Fire TV Edition - 2022",0,$229.99,"$1,149",Insignia,LED,42,1080p
+365,"[Bundle Open Box 10/10] Samsung 55"" 4K UHD OLED Tizen Smart TV (QN55S95BAFXZC) + Samsung HWS800B Watt 3.1.2 Channel Dolby Atmos Sound Bar with Wireless Subwoofer",1,$1649.99,$80,Samsung,OLED,55,4K
+366,"Amazon Fire TV Omni QLED Series 55"" 4K UHD Smart TV (QL55F601C) - 2023",0,$749.99,$200,Amazon fire TV,LED,55,4K
+367,"Samsung The Frame 55"" 4K UHD HDR QLED Tizen Smart TV (QN55LS03BAFXZC) - 2022 - Charcoal Black - Open Box",0,$1598,15.50,Samsung,LED,55,4K
+368,"Samsung 77"" 4K UHD HDR OLED Tizen Smart TV (QN77S90CAFXZC) - 2023 - Titan Black",17,$4799.99,15.50,Samsung,OLED,77,4K
+369,"Open Box - Sony BRAVIA XR 65"" 4K UHD HDR OLED Google Smart TV (XR65A90J) - 2021",3,$2879.99,15.50,Sony,OLED,65,4K
+370,"LG 55"" 4K UHD HDR OLED webOS Smart TV (OLED55C1AUB) - 2021 - Open Box",1,$1649.99,15.50,LG,OLED,55,4K
+371,"Sony X85K 65"" 4K UHD HDR LED Smart Google TV (KD65X85K) - 2022 - Open Box",1,$1119.99,15.50,Sony,LED,65,4K
+372,"Samsung 85"" 4K UHD HDR QLED Smart TV (QN85Q80CAFXZC) - 2023 - Titan Black",22,$3699.99,$35,Samsung,LED,85,4K
+373,"Samsung The Frame 32"" 1080p HD HDR QLED Tizen Smart TV (QN32LS03BBFXZC) -2022 -Charcoal Black -Open Box",0,$559.99,$100,Samsung,LED,32,1080p
+374,RCA DEL HD 720P TV 24 in (RT2412-E) - Open Box - (Condition 10/10),0,$99.99,15.50,NA,NA,NA,NA
+375,"Hisense A68H 75"" 4K UHD HDR LCD Smart Google TV (75A68H) - 2022",19,$999.99,15.50,Hisense,LCD,75,4K
+376,"Samsung The Frame 65"" 4K UHD HDR QLED Tizen OS Smart TV (QN65LS03AAFXZC) - 2021",1755,$1999.97,15.50,Samsung,LED,65,4K
+377,"Open Box - Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75TU690TFXZC) - 2022",1,$1119.99,$100,Samsung,LED,75,4K
+378,"TCL 4-Series 75"" 4K UHD HDR LED Smart Google TV (75S446-CA) - 2021",179,$999.99,0,NA,LED,75,4K
+379,"Open Box - Samsung 75"" 4K UHD HDR QLED Tizen OS Smart TV (QN75Q60AAFXZC) - 2021 - Titan Grey",2,$1444.99,15.50,Samsung,LED,75,4K
+380,"Samsung 65"" 8K UHD HDR Mini-LED Tizen OS Smart TV (QN65QN900AFXZC) - 2021 - Stainless Steel",493,$3999.97,15.50,Samsung,LED,65,NA
+381,"Open Box - Samsung 85"" 4K UHD HDR QLED Tizen Smart TV (QN85QN85AAFXZC) - 2021 - Titan Black",0,$3059.99,$100,Samsung,LED,85,4K
+382,"Refurbished (Excellent) - RCA 24"" 720P LED HDTV RT2412 - Certified Refurbished",0,$99.99,$400,NA,LED,24,NA
+383,"Refurbished (Good) - ONN. 70""Â Class 4K UHD (2160P) LED Roku Smart TV HDR (100012588)",0,$499.99,$600,NA,LED,70,4K
+384,"Refurbished (Good) - SAMSUNG 70"" Class 4K Crystal UHD (2160P) LED Smart TV with HDR (UN70TU700D/UN70TU7000)",0,$699.99,12.20,Samsung,LED,70,4K
+385,"Samsung The Sero 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS05BAFXZC) - 2022 - Navy Blue",2,$1899.99,$60,Samsung,LED,43,4K
+386,"Refurbished (Good) - VIZIO 32"" Class HD Smart TV D-Series (D32h-J09)",0,$139.99,$300,VIZIO,NA,32,NA
+387,"Hisense A68H 85"" 4K UHD HDR LCD Smart Google TV (85A68H) - 2022",19,$1599.99,15.50,Hisense,LCD,85,4K
+388,"Open Box - LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65C1AUB) - 2021",0,$1424.99,0,LG,OLED,65,4K
+389,"Amazon Fire TV Omni QLED Series 50"" 4K UHD Smart TV (QL50F601C) - 2023",0,$649.99,15.50,Amazon fire TV,LED,50,4K
+390,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q80BAFXZC) - Titan Black - Open Box",0,$1599.99,0,Samsung,LED,75,4K
+391,"TCL 4-Series 65"" 4K UHD HDR LED Roku OS Smart TV (65S425-CA)",1707,$598.97,15.50,NA,LED,65,4K
+392,"Sony 75"" 4K UHD HDR LED Smart Google TV (KD75X77L) - 2023",0,$1599.99,15.50,Sony,LED,75,4K
+393,"Sony BRAVIA XR Z9J 75"" 8K UHD HDR LED Smart Google TV (XR75Z9J) - 2021",85,$5999.97,15.50,Sony,LED,75,NA
+394,"Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75CU8000FXZC) - 2023",54,$1699.99,$420,Samsung,LED,75,4K
+395,"Samsung 55"" 4K UHD Neo QLED Tizen Smart TV (QN55QN90BAFXZC) - Titan Black - Open Box",0,$1079.95,$902,Samsung,LED,55,4K
+396,"LG OLED Evo C2 Series 65” Alexa Built-in 4k Smart TV (3840 x 2160), 120Hz Refresh Rate, AI-Powered 4K, Dolby Cinema, WiSA Ready, Cloud Gaming, (OLED65C2, 2022) + Wall Mount",0,$2397.99,15.50,LG,OLED,NA,4K
+397,"Open Box - Samsung 85"" 4K UHD HDR LED Tizen OS Smart TV (UN85AU7980FXZC) - 2021 - Titan Grey",0,$1919.99,$50,Samsung,LED,85,4K
+398,"Sony BRAVIA XR X95K 65"" 4K UHD HDR Mini-LED Smart Google TV (XR65X95K) - 2022 - Open Box",0,$2159.99,15.50,Sony,LED,65,4K
+399,"LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED80URA) - 2023 - Ashed Blue",6,$1599.99,15.50,LG,QNED,65,4K
+400,"Samsung 82"" 4K UHD HDR LED Tizen OS Smart TV (UN82TU7000FXZC) - 2021 - Titan Grey",12279,$1698.97,$320,Samsung,LED,82,4K
+401,"Open Box - Sony X85K 55"" 4K UHD HDR LED Smart Google TV (KD55X85K) - 2022",1,$779.99,15.50,Sony,LED,55,4K
+402,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q60AAFXZC) - 2021 - Titan Grey",3449,$1099.97,$650,Samsung,LED,65,4K
+403,"50"" Samsung QN50Q82BAFXZC QLED 4K Smart TV",0,$649.99,15.50,Samsung,LED,50,4K
+404,"Open Box - Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU8000FXZC)",3,$899.99,0,Samsung,LED,65,4K
+405,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q60BAFXZC) - Titan Grey - Open Box",0,$1599.99,$200,Samsung,LED,75,4K
+406,"Samsung 55"" OPEN BOX Crystal UHD Smart TV AU8000 (UN55AU8000) Brand New Condition With One Year Samsung Warranty",0,$599.99,$602,Samsung,NA,55,NA
+407,Samsung – 65 Inch QN85B Neo QLED 4K UHD HDR 24X Dolby Atmos Gaming Smart TV [QN65QN85BAFXZC] - Open Box- 10/10 Condition,0,$1398,15.50,Samsung,LED,NA,4K
+408,"LG 86"" 4K UHD HDR QNED webOS Smart TV (86QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",0,$1839.99,15.50,LG,QNED,86,4K
+409,"LG 77"" 4K UHD HDR OLED webOS Smart TV (OLED77C1AUB) - 2021",12142,$4499.97,12.20,LG,OLED,77,4K
+410,"LG 42"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED42C2PUA) - 2022 - Dark Titan Silver - Open Box",0,$1199.99,$105,LG,OLED,42,4K
+411,"Samsung 65"" 4K UHD Neo QLED Tizen Smart TV (QN65QN90BAFXZC) - Titan Black - Open Box",0,$1679.99,15.50,Samsung,LED,65,4K
+412,"Open Box - Sony BRAVIA 65"" 4K UHD HDR OLED Android Smart TV (XBR65A8H)",1,$1799.99,$600,Sony,OLED,65,4K
+413,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q60BAFXZC) - Titan Grey",0,$799.99,0,Samsung,LED,65,4K
+414,"Samsung The Frame 85"" 4K UHD HDR QLED Tizen OS Smart TV (QN85LS03AAFXZC) - 2021",146,$4299.95,$221,Samsung,LED,85,4K
+415,"Samsung The Frame 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS03BAFXZC) -2022 -Charcoal Black -Open Box",0,$978,15.50,Samsung,LED,43,4K
+416,"Open Box - LG NanoCell 75"" 8K UHD HDR LED webOS Smart TV (75NANO95) - 2020",1,$2039.99,$250,LG,LED,75,NA
+417,"Refurbished (Good) - TCL 65"" Class 4-Series 4K UHD HDR Roku Smart TV (65S431)",0,$449.99,0,NA,NA,65,4K
+418,"Amazon Fire TV Omni 65"" 4K UHD HDR LED Smart TV (B08T6F9XKL) - 2021",6,$999.99,7.50,Amazon fire TV,LED,65,4K
+419,"Insignia 22"" 1080p HD LED TV (NS-22D510NA19) - Only at Best Buy",2238,$228.97,$300,Insignia,LED,22,1080p
+420,"SAMSUNG 55"" 4K SMART LED TV",20274,$699.99,15.50,Samsung,LED,55,4K
+421,"LG NanoCell 65"" 8K UHD HDR LCD webOS Smart TV (65NANO95) - 2020",32,$1499.97,$81,LG,LCD,65,NA
+422,"Refurbished (Good) - Samsung 32"" 720p HD LED Tizen Smart TV (UN32M4500BFXZC) - Glossy Black",12,$199,15.50,Samsung,LED,32,720p
+423,"Insignia 50"" 4K U HD HDR LCD Smart TV (NS-50F301CA22) - Fire TV Edition - 2020 - Only at Best Buy",11,$579.95,$40,Insignia,LCD,50,4K
+424,"Samsung 50"" 4K UHD HDR QLED Tizen Smart TV (QN50Q60BAFXZC) - Titan Grey - Open Box",1,$639.99,$600,Samsung,LED,50,4K
+425,"Refurbished (Good) - SAMSUNG QN65QN90A 65"" CLASS QN90A NEO QLED 4K SMART TV (2021)",0,$1099.99,15.50,Samsung,LED,65,4K
+426,"Sony 65"" 4K UHD HDR LED Smart Google TV (KD65X77L) - 2023",0,$929.99,$100,Sony,LED,65,4K
+427,"TCL 4-Series 75"" 4K UHD HDR LED Roku TV Smart TV (75S435-CA) - 2021",165,$999.99,$101,NA,LED,75,4K
+428,"Samsung 65"" 4K UHD OLED Tizen Smart TV (QN65S95BAFXZC) OPEN BOX 10/10",0,$2298,$200,Samsung,OLED,65,4K
+429,"Open Box - Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43AU8000FXZC) - 2021",0,$448,15.50,Samsung,LED,43,4K
+430,"Samsung 65"" 4K UHD HDR Mini-LED Tizen OS Smart TV (QN65QN90AAFXZC) - 2021 - Titan Black",2245,$1999.97,15.50,Samsung,LED,65,4K
+431,"Samsung 75"" 8K UHD HDR Mini-LED Tizen OS Smart TV (QN75QN900AFXZC) - 2021 - Stainless Steel",497,$5998.97,15.50,Samsung,LED,75,NA
+432,"Samsung The Terrace 75"" 4K UHD HDR QLED Tizen Smart Outdoor TV (QN75LST9TAFXZC) - 2021 - Titan Black",0,$9999.99,15.50,Samsung,LED,75,4K
+433,"Open Box - Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55TU8500FXZC)",0,$799.99,12.20,Samsung,LED,55,4K
+434,"LG NanoCell 43"" 4K UHD HDR LED webOS Smart TV (43NANO75UPA) - 2021",1055,$549.97,0,LG,LED,43,4K
+435,"Open Box - Samsung 65"" 4K UHD HDR Mini-LED Tizen OS Smart TV (QN65QN90AAFXZC) - 2021 - Titan Black",4,$1699.99,"$1,550",Samsung,LED,65,4K
+436,"Open Box - Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75QN88BAFXZC) - Titan Black",0,$1949.99,0,Samsung,LED,75,4K
+437,"Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75MU6300FXZC) - Dark Titan",13,$1799.97,15.50,Samsung,LED,75,4K
+438,"LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65A2PUA) - 2022 - Open Box",0,$2239.99,$100,LG,OLED,65,4K
+439,"Hisense (50R63G) 50"" 4k UHD HDR Smart Roku LED TV (Refurbished)",0,$399.99,15.50,Hisense,LED,50,NA
+440,"LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO75UQA) - 2022 - Ashed Blue - Open Box",0,$1039.99,$301,LG,LED,75,4K
+441,"LG 86UQ7590PUD 86"" 4K UHD HDR LED webOS Smart TV Dark Iron Grey - Factory Refurbished",0,$1499,$50,LG,LED,86,4K
+442,Hisense A4 Series 40-Inch Class FHD Smart Android TV with DTS Virtual X,252,$566.66,$500,Hisense,NA,NA,NA
+443,"TCL XL 85"" 4K UHD HDR QLED Roku Smart TV (85R745-CA) - 2021",30,$3499.99,$80,NA,LED,85,4K
+444,"Open Box - Samsung 32"" 1080p HD LED Tizen Smart TV (UN32N5300AFXZC) - Glossy Black",1,$319,$380,Samsung,LED,32,1080p
+445,"Refurbished (Good) - TCL 65"" 5-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV (65S531)",0,$619.99,$200,NA,LED,65,4K
+446,"Refurbished (Good) - SAMSUNG 55"" Class TU700D-Series Crystal Ultra HD 4K Smart TV ( UN55TU7000 / UN55TU700D )",0,$499.99,$400,Samsung,NA,55,Ultra HD
+447,"Refurbished (Good) - Hisense 75"" Class 4K UHD LED Roku Smart TV HDR ( 75R6E3 )",0,$699.99,"$1,000",Hisense,LED,75,4K
+448,"Samsung Neo 65"" 8K UHD QLED 120Hz Smart TV FreeSync Premium Pro HDMI USB Black Television (QN65QN800BFXZC)",0,$2199.99,15.50,Samsung,LED,65,NA
+449,"Open Box - Sony BRAVIA XR X95J 65"" 4K UHD HDR LED Smart Google TV (XR65X95J) - 2021",2,$1699.99,15.50,Sony,LED,65,4K
+450,"Samsung The Serif 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS01BAFXZC) - 2022 - Cloud White -Open Box",0,$1679.99,$700,Samsung,LED,65,4K
+451,"75"" Samsung QN75QN95BAFXZC Neo QLED 4K Smart TV",0,$2899.99,15.50,Samsung,LED,75,4K
+452,"Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU8000FXZC)",6439,$998.97,0,Samsung,LED,65,4K
+453,"Open Box - Sony 85"" 4K UHD HDR LED Google Smart TV (KD85X91J) - 2021",0,$2549.99,15.50,Sony,LED,85,4K
+454,"LG 65"" 4K UHD HDR LCD webOS Smart TV (65UP7000PUA) - 2021 - Open Box",0,$719.99,$130,LG,LCD,65,4K
+455,"REFURBISHED (GOOD) - Philips 55"" Class 4K Ultra HD (2160P) Roku Smart LED TV (55PFL5756/F7)",0,$369.99,15.50,NA,LED,55,4K
+456,"Neptune Partial Sun 55"" 4K UHD HDR LED webOS Outdoor Smart TV (NT553)",0,$2997.98,15.50,NA,LED,55,4K
+457,"LG NanoCell 86"" 4K UHD HDR LED webOS Smart TV (86NANO75UQA) - 2022 - Ashed Blue - Open Box",291,$1599.99,$450,LG,LED,86,4K
+458,"Open Box - Samsung The Serif 55"" 4K UHD HDR QLED Tizen Smart TV (QN55LS01BAFXZC) - 2022 - Cloud White",0,$1048,15.50,Samsung,LED,55,4K
+459,"Sony BRAVIA 65"" 4K UHD HDR OLED Android Smart TV (XBR65A8H)",2496,$2298.97,$410,Sony,OLED,65,4K
+460,"Open Box - Samsung 50"" 4K UHD HDR QLED Tizen Smart TV (QN50Q80BAFXZC) - Titan Black",0,$689.97,0,Samsung,LED,50,4K
+461,"Open Box - Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75RU8000FXZC)",1,$999.99,$600,Samsung,LED,75,4K
+462,"Refurbished (Good) - Samsung 75"" Class TU700D/TU7000 -Series Crystal Ultra HD 4K Smart TV ( UN75TU7000 / UN75TU700D)",0,$899.99,15.50,Samsung,NA,75,Ultra HD
+463,"LG 75"" 4K UHD HDR LED webOS Smart TV (75UP7770PUB) - 2021",2,$1799.97,"$1,700",LG,LED,75,4K
+464,"Samsung 75"" 8K UHD Neo QLED Tizen Smart TV (QN75QN800BFXZ) - Stainless Steel",0,$4299.99,15.50,Samsung,LED,75,NA
+465,"LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65BXPUA)",744,$2498.97,15.50,LG,OLED,65,4K
+466,"LG 65"" 4K UHD HDR MiniLED webOS Smart TV (65QNED90UPA) - 2021 - Light Black",178,$3199.97,$780,LG,LED,65,4K
+467,"Refurbished (Good) - SAMSUNG 70"" Class Q6-Series 4K Ultra HD Smart QLED TV (QN70Q6DA / QN70Q60A)",0,$1099.99,$301,Samsung,LED,70,4K
+468,"[Bundle] SAMSUNG QN65Q80BA 65"" 4K QLED Tizen Smart TV + HW-B450/ZC 2.1 Channel Sound Bar with Wireless Subwoofer - Open box 10/10 with 1 year seller warranty",0,$1398,15.50,Samsung,LED,65,4K
+469,"Open Box - LG 75"" 4K UHD HDR QNED MiniLED webOS Smart TV (75QNED90UPA) - 2021",0,$1619.99,0,LG,QNED,75,4K
+470,"Amazon Fire TV Omni 75"" 4K UHD HDR LED Smart TV (B08T6DX84M) - 2021",1,$1199.99,15.50,Amazon fire TV,LED,75,4K
+471,"Open Box - LG 55"" 4K UHD HDR OLED webOS Smart TV (OLED55CXPUA)",7239,$1569.99,$300,LG,OLED,55,4K
+472,"Open Box - Sony BRAVIA 55"" 4K UHD HDR LED Google TV Smart TV (XR55X90K) - 2022",0,$899.99,0,Sony,LED,55,4K
+473,"Open Box - Samsung 55"" 4K UHD HDR Mini-LED Tizen OS Smart TV (QN55QN90AAFXZC) - 2021 - Titan Black",2,$1359.99,15.50,Samsung,LED,55,4K
+474,"Open Box - Samsung 85"" 8K UHD HDR QLED Tizen OS Smart TV (QN85QN800AFXZC) - 2021 - Stainless Steel",1,$5354.99,15.50,Samsung,LED,85,NA
+475,"Samsung 65"" 8K UHD QLED Tizen Smart TV (QN65QN900BFXZC) - Stainless Steel - Open Box",0,$3599.99,15.50,Samsung,LED,65,NA
+476,"LG NanoCell 75"" 8K UHD HDR LED webOS Smart TV (75NANO95) - 2020",15,$2398.97,$851,LG,LED,75,NA
+477,"LG 55"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED55C2PUA) - 2022 - Dark Titan Silver - Refurbished",0,$1349,15.50,LG,OLED,55,4K
+478,"Sony X85K 75"" 4K UHD HDR LED Smart Google TV (KD75X85K) - 2022 - Open Box",2,$1519.99,15.50,Sony,LED,75,4K
+479,"Open Box - Samsung 49"" 4K UHD HDR QLED Tizen Smart TV (QN49Q80TAFXZC) - Titan Black",1,$1019.99,15.50,Samsung,LED,49,4K
+480,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q70TAFXZC) - Black",6099,$2598.97,0,Samsung,LED,75,4K
+481,"Open Box - Samsung 50"" 4K UHD HDR QLED Tizen Smart TV (QN50Q60AAFXZC) - 2021 - Titan Grey",4,$722.99,$600,Samsung,LED,50,4K
+482,"Refurbished (Good) - ONN. 75"" Class 4K UHD (2160P) LED Frameless Roku Smart TV (100044717)",0,$549.99,15.50,NA,LED,75,4K
+483,"LG 70"" 4K UHD HDR LCD webOS Smart TV (70UP7770PUB) - 2021",1,$1498.97,15.50,LG,LCD,70,4K
+484,"Open Box - LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO75UPA) - 2021",970,$1169.99,12.20,LG,LED,75,4K
+485,"Hisense 32"" 720p HD LED Roku Smart TV (32H4G) - 2020",10,$219.97,$500,Hisense,LED,32,720p
+486,"Open Box - Samsung The Frame 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS03BAFXZC) - 2022 - Charcoal Black",0,$2198,$500,Samsung,LED,65,4K
+487,Open Box - Samsung QN55QN95BAFXZC 55″ Neo QLED 4K Smart TV – 2022 Model- 10/10 Condition,0,$1399.99,15.50,Samsung,LED,NA,4K
+488,"Open Box - LG 65"" 4K UHD HDR LED webOS Smart TV (65UM6900PUA)",0,$749.99,$700,LG,LED,65,4K
+489,"REFURBISHED (GOOD) - Sony 65"" Class BRAVIA XR A80J Series OLED 4K UHD Smart Google TV (XR65A80J)",0,$1499.99,15.50,Sony,OLED,65,4K
+490,"Open Box - Sony 75"" 4K UHD HDR LED Google Smart TV (KD75X80J) - 2021",4725,$1189.99,15.50,Sony,LED,75,4K
+491,"Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU6900FXZC) - 2020 - Titan Grey",34,$848.97,$141,Samsung,LED,65,4K
+492,"Samsung The Frame 32"" 1080p HD HDR QLED Tizen Smart TV (QN32LS03BBFXZC) - 2022 - Charcoal Black - Open Box",0,$658,$71,Samsung,LED,32,1080p
+493,"Open Box - Samsung 32"" 720p HD LED Tizen Smart TV (UN32M4500BFXZC) - Glossy Black",1,$209,15.50,Samsung,LED,32,720p
+494,"Samsung The Terrace 65"" 4K UHD HDR QLED Tizen Smart Outdoor TV (QN65LST9TAFXZC) - 2021 - Titan Black",0,$7799.99,15.50,Samsung,LED,65,4K
+495,"Samsung 85"" 4K UHD HDR QLED Tizen OS Smart TV (QN85Q80AAFXZC) - 2021 - Titan Black",1999,$3298.97,15.50,Samsung,LED,85,4K
+496,"Sony 75"" 4K UHD HDR LED Android Smart TV (XBR75X800H)",1175,$1498.97,$210,Sony,LED,75,4K
+497,"Refurbished (Good) - SAMSUNG 55"" CLASS TU700D-SERIES CRYSTAL ULTRA HD 4K SMART TV ( UN55TU700D / UN55TU7000 )",0,$469.99,$440,Samsung,NA,55,4K
+498,"Open Box - LG 55"" 4K UHD HDR OLED webOS Smart TV (OLED55C1AUB) - 2021",1,$1459.97,$240,LG,OLED,55,4K
+499,"Refurbished (Excellent) - Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65TU7000FXZC) - Titan Grey",0,$609.99,$350,Samsung,LED,65,4K
+500,"Refurbished (Good) - VIZIO 70"" Class V-Series 4K HDR LED SmartCast Smart TV (V705x-J03)",0,$549.99,$145,VIZIO,LED,70,4K
+501,"LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",0,$959.99,15.50,LG,QNED,65,4K
+502,"Sony BRAVIA XR X95K 85"" 4K UHD HDR Mini-LED Smart Google TV (XR85X95K) - 2022 - Open Box",0,$4639.99,15.50,Sony,LED,85,4K
+503,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q80TAFXZC) - Titan Black",6695,$3298.97,12.20,Samsung,LED,75,4K
+504,"Open Box - Toshiba 32"" 720p LED TV (32L310U20)",3,$239.99,$110,Toshiba,LED,32,720p
+505,"Pioneer 43"" 4K UHD HDR LED Smart TV (PN43951-22C) - Fire TV Edition - 2021 - Open Box",0,$319.99,$260,NA,LED,43,4K
+506,"Open Box - Samsung 65"" 4K UHD HDR LED Tizen Smart TV (UN65AU8000FXZC) - 2021",1,$739.97,$600,Samsung,LED,65,4K
+507,"OPEN BOX - Sony BRAVIA 65"" 4K UHD HDR LED Google TV Smart TV (XR65X90K) - 2022 (with One Year DC Canada Warranty)",0,$1099.99,15.50,Sony,LED,65,4K
+508,"Open Box - Sony BRAVIA XR Z9J 85"" 8K UHD HDR LED Smart Google TV (XR85Z9J) - 2021",0,$5399.99,$500,Sony,LED,85,NA
+509,"Refurbished (Good) - Samsung 55"" Class 4K Crystal UHD (2160p) LED Smart TV with HDR (UN55AU8000)",0,$499.99,15.50,Samsung,LED,55,4K
+510,"LG 70"" 4K UHD HDR LED webOS Smart TV (70UQ9000PUD) - 2022 - Titan Grey - Open Box",486,$799.99,"$1,350",LG,LED,70,4K
+511,"REFURBISHED (GOOD) - SAMSUNG 85"" Class QN85BD-Series Neo QLED 4K Smart TV w/ Quantum 24X HDR (QN85QN85BD/QN85QN85BA)",0,$2499.99,$140,Samsung,LED,85,4K
+512,"Samsung The Serif 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS01BAFXZC) - 2022 - Cloud White -Open Box",0,$879.99,0,Samsung,LED,43,4K
+513,"Samsung 60"" 4K UHD Crystal Processor HDR Smart TV UN60TU690TFXZC - Open box - 10/10 Condition",0,$999.99,15.50,Samsung,NA,60,4K
+514,"Open Box - LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO80UPA) - 2021",0,$849.99,15.50,LG,LED,65,4K
+515,"LG 65"" 4K UHD HDR LED webOS Smart TV (65UP7560AUD) - 2021",173,$1099.97,15.50,LG,LED,65,4K
+516,"Open Box - Sony 75"" 4K UHD HDR LED Google Smart TV (KD75X85J) - 2021",3,$1229.99,$80,Sony,LED,75,4K
+517,TCL 4-Series 4K UHD HDR LED Roku TV Smart TV (43S431) - Open-Box,0,$319.99,15.50,NA,LED,NA,4K
+518,"Open Box - Samsung 82"" 4K UHD HDR LED Tizen Smart TV (UN82TU7050FXZC) - 2020 - Titan Grey",0,$2049.99,$351,Samsung,LED,82,4K
+519,"Refurbished (Good) - LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65B2PUA) - 2022",0,$1449,15.50,LG,OLED,65,4K
+520,"LG 50"" 4K UHD HDR LED webOS Smart TV (50UQ9000PUD) - 2022 - Titan Grey - Open Box",0,$639.99,"$1,270",LG,LED,50,4K
+521,"LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO80UPA) - 2021 - Open Box",0,$1129.97,15.50,LG,LED,75,4K
+522,"Hisense 75"" 4K UHD HDR LED Android Smart TV (75A68G) - 2021",2,$1099.97,15.50,Hisense,LED,75,4K
+523,"Open Box - LG NanoCell 86"" 4K UHD HDR LED webOS Smart TV (86NANO90UPA) - 2021",1,$1799.99,0,LG,LED,86,4K
+524,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen OS Smart TV (QN65Q80AAFXZC) - 2021 - Titan Black",0,$1359.99,$100,Samsung,LED,65,4K
+525,"Refurbished (Good) - RCA 24"" Class HD (720P) LED TV (RT2412)",0,$99.99,15.50,NA,LED,24,NA
+526,"Open Box - Samsung 65"" 8K UHD HDR Mini-LED Tizen OS Smart TV (QN65QN900AFXZC) - 2021 - Stainless Steel",0,$3654.99,$601,Samsung,LED,65,NA
+527,"LG OLED77B2PUA 77"" 4K UHD HDR OLED webOS Smart TV - Factory Refurbished",0,$2399,$750,LG,OLED,77,4K
+528,"Refurbished (Good) - LG 75"" Class 4K UHD 2160P Smart TV (75UN6955ZUD)",0,$799.99,$800,LG,NA,75,4K
+529,"Open Box - Samsung The Serif 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS01BAFXZC) - 2022 - Cloud White",0,$1499.99,$230,Samsung,LED,65,4K
+530,"Hisense DEL Smart Television 32"" (32H41G) - Open Box Like New (Condition 10/10)",1,$169,$50,Hisense,NA,32,NA
+531,Hisense 50-Inch Class R6 Series Dolby Vision HDR 4K UHD Roku Smart TV,427,$699.99,$190,Hisense,NA,NA,4K
+532,"Open Box - LG 50"" 4K UHD HDR LCD webOS Smart TV (50UP7000PUA) - 2021",0,$509.97,$40,LG,LCD,50,4K
+533,"Open Box - Insignia 58"" 4K UHD HDR LCD Smart TV (NS-58F301CA22) - Fire TV Edition - 2021",0,$509.99,15.50,Insignia,LCD,58,4K
+534,"LG 65"" 4K UHD HDR LED webOS Smart TV (65UQ7570PUJ) - 2023 - Black",222,$1099.99,0,LG,LED,65,4K
+535,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen OS Smart TV (QN55Q80AAFXZC) - 2021 - Titan Black",1,$1104.99,15.50,Samsung,LED,55,4K
+536,"Open Box - LG 77"" 4K UHD HDR OLED webOS Smart TV (OLED77CXPUA)",5359,$5129.99,$130,LG,OLED,77,4K
+537,"Samsung 55"" TU7000 Smart 4K UHD TV -Open Box",0,$699.99,15.50,Samsung,NA,55,4K
+538,"Open Box - LG 55"" 4K UHD HDR LED webOS Smart TV (55SM8100AUA)",0,$699.99,15.50,LG,LED,55,4K
+539,"Open Box - Sony BRAVIA XR X95J 75"" 4K UHD HDR LED Smart Google TV (XR75X95J) - 2021",0,$2549.99,15.50,Sony,LED,75,4K
+540,"Open Box - LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO80UNA)",216,$849.99,0,LG,LED,65,4K
+541,"Samsung 85"" The Frame QLED HDR 4K Smart TV (QN85LS03B) - Open Box - 10/10 Condition.",0,$4798.99,15.50,Samsung,LED,85,4K
+542,"Open Box - Insignia 70"" 4K UHD HDR LCD Fire OS Smart TV (NS-70F301CA23) - 2022",0,$679.99,15.50,Insignia,LCD,70,4K
+543,"Open Box - Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75TU6900FXZC) - 2020 - Titan Grey",0,$1169.99,$551,Samsung,LED,75,4K
+544,"Refurbished (Good) - LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED80UQA) - Dark Titan Silver/Ashed Blue",0,$1049,$215,LG,QNED,65,4K
+545,"Open Box - Amazon Fire TV Omni 55"" 4K UHD HDR LED Smart TV (B08T6DRNDD) - 2021",0,$494.97,"$1,000",Amazon fire TV,LED,55,4K
+546,"Refurbished (Good) - LG 86"" Class 4K Ultra HD Smart NanoCell 75 Series TV with AI ThinQ (86NANO75UPA)",0,$1799.99,15.50,LG,NA,86,4K
+547,"Open Box - Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q70AAFXZC) - 2021",0,$1869.99,0,Samsung,LED,75,4K
+548,"Open Box - Insignia 32"" 1080p HD LED Smart TV (NS-32F202CA22) - Fire TV Editon - 2021 - Only at Best Buy",4,$297.99,$152,Insignia,LED,32,1080p
+549,"Samsung NT678U Series 43"" 4K Ultra HD LED Commercial TV - (HG43NT678UFXZA)",0,$713.8,0,Samsung,LED,43,4K
+550,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen OS Smart TV (QN65QN88AAFXZC) - 2021 - Titan Black",0,$1614.99,0,Samsung,LED,65,4K
+551,"Open Box - Samsung 75"" 4K UHD HDR Mini-LED Tizen OS Smart TV (QN75QN90AAFXZC) - 2021 - Titan Black",0,$3229.99,$502,Samsung,LED,75,4K
+552,"LG 48"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (OLED48C2PUA) - 2022 - Dark Titan Silver - Refurbished",0,$1198,$560,LG,OLED,48,4K
+553,"Refurbished (Good) SAMSUNG 75"" Class Q60B-Series QLED 4K Smart TV (QN75Q60B)",0,$1299.99,15.50,Samsung,LED,75,4K
+554,"Insignia 50"" 4K UHD HDR QLED Fire Smart TV (NS-50F501CA22) - 2020 - Only at Best Buy",3,$629.95,15.50,Insignia,LED,50,4K
+555,"Open Box - Samsung NT670U Series 50"" 4K UHD LED TV - (HG50NT670UFXZA)",0,$626.99,$920,Samsung,LED,50,4K
+556,"Samsung QN65QN95BAFXZC 65"" Neo QLED 4K Smart TV - Open Box - 10/10 Condition",0,$1979.99,15.50,Samsung,LED,65,4K
+557,"Samsung 85"" 4K UHD HDR QLED Tizen OS Smart TV (QN85QN90AAFXZC) - 2021 - Titan Black",2908,$4999.97,0,Samsung,LED,85,4K
+558,"RCA 19"" Class HD (720P) LED TV (RT1970)",2,$169.99,15.50,NA,LED,19,NA
+559,"LG 65"" 4K UHD HDR LED webOS Smart TV (65UP7700PUB) - 2021",2,$1099.97,15.50,LG,LED,65,4K
+560,"LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO80UPA) - 2021 - Only at Best Buy",261,$2399.97,0,LG,LED,75,4K
+561,"Open Box - Samsung 75"" 4K UHD HDR QLED Tizen OS Smart TV (QN75QN88AAFXZC) - 2021 - Titan Black",0,$2464.99,$110,Samsung,LED,75,4K
+562,"Refurbished (Good) VIZIO 50"" Class V-Series 4K LED HDR Smart TV (V505M-K09)",0,$359.99,"$2,750",VIZIO,LED,50,4K
+563,"Refurbished (Good) - SAMSUNG LH46OHF 46"" CLASS OHF 1080P HD OUTDOOR DIGITAL SIGNAGE DISPLAY",0,$1999.99,$570,Samsung,NA,46,NA
+564,"Open Box - Samsung 43"" 4K UHD HDR QLED Tizen Smart TV (QN43QN90BAFXZC) - Titan Black",0,$729.99,$600,Samsung,LED,43,4K
+565,"Refurbished (Good) - VIZIO 70"" Class 4K UHD Quantum SmartCast Smart TV HDR M-Series (M70Q6-J)",0,$599.99,$142,VIZIO,NA,70,4K
+566,"Refurbished (Good) - RCA RTR3261-CA, 32"" ROKU SMART TV",0,$156.9,$135,NA,NA,32,NA
+567,"LG 55"" 4K UHD HDR QNED webOS Smart TV (55QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",0,$799.99,$600,LG,QNED,55,4K
+568,"Refurbished (Good) - VIZIO 58"" Class M7 Series Premium 4K UHD Quantum Color LED SmartCast Smart TV (M58Q7-J01)",0,$499.99,$351,VIZIO,LED,58,4K
+569,"55"" Neo QLED 4K TV QN90B OPEN BOX 10/10",0,$1448,15.50,NA,LED,55,4K
+570,"LG 55"" 4K UHD HDR LED webOS Smart TV (55UQ7570PUJ) - 2023 - Black",0,$799.99,0,LG,LED,55,4K
+571,"Amazon Fire TV Omni QLED Series 43"" 4K UHD Smart TV (QL43F601C) - 2023",0,$519.99,0,Amazon fire TV,LED,43,4K
+572,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q60RAFXZC) - Open Box",0,$1529.99,$70,Samsung,LED,75,4K
+573,"Refurbished (Good) - Hisense 43R63G 43"" 4K UHD Smart Roku TV with Dolby Vision and HDR10",0,$329.99,$160,Hisense,NA,43,4K
+574,"Samsung 65"" 8K UHD Neo QLED Tizen Smart TV (QN65QN800BFXZC) - Stainless Steel - Open Box",0,$2559.99,15.50,Samsung,LED,65,NA
+575,"Samsung 70"" 4K Ultra HD 60 Hz LED Display for Business - Titan Gray - (LH70BETHLGFXZC)",0,$1084.99,0,Samsung,LED,70,4K
+576,"SunBriteTV Veranda SB-V-43-4KHDR-BL 43"" LED-LCD TV - 4K UHDTV - Black",63,$2399.99,15.50,NA,LED,43,4K
+577,"Open Box - Insignia 50"" 4K U HD HDR LCD Smart TV (NS-50F301CA22) - Fire TV Edition - 2020",1,$450.99,$800,Insignia,LCD,50,4K
+578,LG 77 Inch Class B2 PUA series OLED 4K UHD Smart webOS 22 w/ ThinQ AI TV - OLED77B2PUA,0,$2999.99,$45,LG,OLED,NA,4K
+579,"Refurbished (Excellent) - Insignia 32"" 720p HD LED TV (NS-32D310CA21) - 2020",0,$154.99,$100,Insignia,LED,32,720p
+580,"Refurbished (Good) - LG 50"" 4K UHD HDR LED webOS Smart TV (50UQ7590PUB) - 2022 - Dark Iron Grey",0,$499.99,"$1,700",LG,LED,50,4K
+581,"Samsung 85"" 4K HDR 24X OTS Neo QLED Smart TV (QN85QN85BA) 10/10 Condition Never Used W/Samsung WarrantyGREATER TORONTO DELIVERY ONLY",0,$2999.99,15.50,Samsung,LED,85,4K
+582,"Samsung 85"" 4K UHD HDR LED Tizen OS Smart TV (UN85AU7980FXZC) - 2021 - Titan Grey",3,$2499.97,0,Samsung,LED,85,4K
+583,"TCL 4-Series 65"" 4K UHD HDR LED Roku TV Smart TV (65S435-CA) - 2021",921,$699.99,"$1,600",NA,LED,65,4K
+584,"Refurbished (Good) - LG 65"" G2 4K UHD HDR OLED webOS Evo Gallery Smart TV (OLED65G2PUA) - 2022 - Satin Silver",0,$2399,$350,LG,OLED,65,4K
+585,"Refurbished (Good) - Samsung The Frame 55"" 4K UHD HDR QLED Tizen OS Smart TV (QN55LS03AD / QN55LS03AA )",0,$1249.99,$200,Samsung,LED,55,4K
+586,"REFURBISHED (GOOD) TCL 65"" Class 4-Series 4K UHD HDR Smart Roku TV (65S451)",0,$499.99,15.50,NA,NA,65,4K
+587,"LG 55"" 4K UHD HDR QNED webOS Smart TV (55QNED80URA) - 2023 - Ashed Blue",6,$1299.99,$180,LG,QNED,55,4K
+588,"Open Box - Samsung 55"" 4K UHD HDR LED Tizen Smart TV (UN55AU8000FXZC) - 2021",1,$569.95,$100,Samsung,LED,55,4K
+589,Refurbished (Good) - RCA DEL HD 720P TV 24 in (RT2412-B) - (Condition 10/10),0,$99.99,$699,NA,NA,NA,NA
+590,"Samsung 82"" 4K UHD HDR QLED Tizen Smart TV (QN82Q7DRAF)",0,$4299.99,15.50,Samsung,LED,82,4K
+591,"Open Box - LG 55"" 4K UHD HDR LED webOS Smart TV (55UP8000PUA) - 2021",559,$689.99,$350,LG,LED,55,4K
+592,"Refurbished (Excellent) - LG 65"" 4K UHD HDR LCD webOS Smart TV (65UP7000PUA) - 2021",0,$648.97,0,LG,LCD,65,4K
+593,"Open Box - LG 86"" 4K UHD HDR LED webOS Smart TV (86UP8770PUA) - 2021",0,$2589.99,$244,LG,LED,86,4K
+594,"Samsung SH37R-B 37"" UHD LCD 60Hz HDMI USB Wi-Fi Stretch Professional Black Television (LH37SHRBBGBXZA)",0,$2434.99,$650,Samsung,LCD,37,NA
+595,"Refurbished (Good) - LG 75"" Class 4K UHD 2160P Smart TV (75UN6950ZUD)",0,$799.99,"$3,500",LG,NA,75,4K
+596,"Samsung 85"" 4K UHD Neo QLED Tizen Smart TV (QN85QN90BAFXZC) - Titan Black Open Box 10/10 Condition Never Used W/Samsung WarrantyGREATER TORONTO DELIVERY ONLY",0,$3499.99,15.50,Samsung,LED,85,4K
+597,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q62AAFXZC) - Titan Grey - Only at Best Buy",0,$1104.99,15.50,Samsung,LED,65,4K
+598,"LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO80UPA) - 2021 - Only at Best Buy",554,$1599.97,15.50,LG,LED,65,4K
+599,"Open Box - LG NanoCell 75"" 4K UHD HDR LCD webOS Smart TV (75NANO80) - 2020 - Only at Best Buy",0,$1239.99,0,LG,LCD,75,4K
+600,"Refurbished (Good) - TCL 5Series 65"" 4K UHD HDR QLED Roku TV Smart TV (65S535CAB) 2020",0,$799.99,15.50,NA,LED,65,4K
+601,"Open Box - LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65G1PUA) - 2021",942,$2099.99,15.50,LG,OLED,65,4K
+602,"Open Box - Sony 75"" 8K UHD HDR LED Android Smart TV (XBR75Z8H)",0,$2999.99,$500,Sony,LED,75,NA
+603,"Open Box - Samsung The Serif 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS01TAFXZC) - White",161,$999.99,0,Samsung,LED,43,4K
+604,"Samsung The Frame 65"" 4K UHD HDR QLED Tizen Smart TV (QN65LS03RAFXZC) - Charcoal Black - Open Box",0,$2139.99,0,Samsung,LED,65,4K
+605,"Samsung The Frame 85"" 4K UHD HDR QLED Tizen Smart TV (QN85LS03BAFXZC) -2022 -Charcoal Black -Open Box",0,$4399.99,$200,Samsung,LED,85,4K
+606,"REFURBISHED (GOOD) - Philips 75"" Class 4K Ultra HD (2160p) Google Smart LED TV (75PUL7552/F7)",0,$649.99,12.20,Philips 75,LED,75,4K
+607,"Open Box - LG 43"" 4K UHD HDR LED webOS Smart TV (43UP7560AUD) - 2021",159,$479.99,$240,LG,LED,43,4K
+608,"Refurbished (Good) onn. 70” QLED 4K UHD (2160p) Roku Smart TV with Dolby Atmos, Dolby Vision, Local Dimming, 120hz Effective Refresh Rate, and HDR (100071708)",0,$699.99,$151,NA,LED,NA,4K
+609,"LG 70UP8070PUR 70"" 4K UHD HDR LCD webOS Smart TV, Light Black (Factory Refurbished)",0,$749,$250,LG,LCD,70,4K
+610,"LG 50"" 4K UHD HDR LED webOS Smart TV (50UP7560AUD) - 2021 - Open Box",0,$549.97,0,LG,LED,50,4K
+611,"Samsung 43"" 4K UHD HDR QLED Tizen Smart TV (QN43QN90BAFXZC) - Titan Black - Open Box",0,$1279.99,15.50,Samsung,LED,43,4K
+612,"Open Box - LG 55"" 4K UHD HDR OLED webOS Smart TV (OLED55A1PUA) - 2021",708,$1609.99,$260,LG,OLED,55,4K
+613,"LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",0,$1439.99,15.50,LG,QNED,65,4K
+614,"LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO85APA) - 2021",203,$2999.97,$128,LG,LED,75,4K
+615,"Samsung NT670U Series 50"" 4K UHD LED TV - (HG50NT670UFXZA)",0,$751.85,$271,Samsung,LED,50,4K
+616,"Refurbished (Good) - LG 50"" 4K UHD HDR LED webOS Smart TV (50NANO75UQA) - 2022 - Ashed Blue",0,$579,$450,LG,LED,50,4K
+617,"Refurbished (Good) - SAMSUNG QN50QN90B 50"" CLASS QN90B NEO QLED 4K SMART TV (2022)",0,$950,15.50,Samsung,LED,50,4K
+618,"Open Box - Samsung 65"" 4K UHD HDR Neo QLED Tizen Smart TV (QN65QN9DAAFXZC)",0,$1529.99,15.50,Samsung,LED,65,4K
+619,"Samsung 75"" 4K UHD HDR LED Tizen Smart TV (UN75TU6900FXZC) - 2020 - Titan Grey - Only at Best Buy",102,$1398.97,0,Samsung,LED,75,4K
+620,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55QN88BAFXZC) -Titan Black -Only at Best Buy -Open Box",0,$1279.99,$175,Samsung,LED,55,4K
+621,Refurbished (Good) - Hisense 55 inch U6G Series Quantum 4K ULED Android Smart TV (55U6G),0,$564.99,15.50,Hisense,LED,NA,4K
+622,"Samsung 85"" 4K UHD Neo QLED Tizen Smart TV (QN85QN90BAFXZC) - Titan Black - Open Box",0,$3199.99,15.50,Samsung,LED,85,4K
+623,"Open Box - Sony 85"" 4K UHD HDR LED Android Smart TV (XBR85X900H)",0,$2549.99,$590,Sony,LED,85,4K
+624,"Refurbished (Excellent) - Samsung 55"" 4K UHD OLED Tizen Smart TV (QN55S95BAFXZC)",0,$1309.99,$502,Samsung,OLED,55,4K
+625,"Open Box - Samsung The Serif 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS01BAFXZC) - 2022 - Cloud White",0,$897,$200,Samsung,LED,43,4K
+626,"Refurbished (Good) - RCA 65"" 4K 2160P UHD Smart Television with WebOs - Black (RWOSU6547)",0,$549.99,12.20,NA,NA,65,4K
+627,"Open Box - Insignia 43"" 4K UHD HDR LED Smart TV (NS-43F301CA22) - Fire TV Editon - 2021",0,$424.99,"$2,499",Insignia,LED,43,4K
+628,"Samsung The Terrace 65"" 4K UHD HDR QLED Tizen Smart Outdoor TV (QN65LST7TAFXZC) - Titan Black - Open Box",0,$4499,$170,Samsung,LED,65,4K
+629,"50"" Crystal UHD 4K Smart TV AU8000 OPEN BOX 10/10",0,$628,15.50,NA,NA,50,4K
+630,"LG 65"" 4K UHD HDR LED webOS Smart TV (65UP8000PUA) - 2021 - Only at Best Buy",861,$1248.97,0,LG,LED,65,4K
+631,"Refurbished (Good) - TCL 4Series 75"" 4K UHD HDR LED Roku TV Smart TV (75S425CAB) 2019",1,$749.99,15.50,NA,LED,75,4K
+632,"Samsung 85"" 4K UHD HDR QLED Tizen Smart TV (QN85QN85AAFXZC) - 2021 - Titan Black",1577,$3998.97,15.50,Samsung,LED,85,4K
+633,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q6DTAFXZC) - 2020 - Titan Grey",0,$1079.99,$550,Samsung,LED,65,4K
+634,Samsung QN43LS01BAFXC 43-Inch Serif Series LED 4K UHD Smart Tizen TV - Open Box,0,$849,$260,Samsung,LED,NA,4K
+635,"Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q75AAFXZC) - Open Box",0,$739.95,$540,Samsung,LED,55,4K
+636,"Refurbished (Excellent) - Sony BRAVIA XR X95J 65"" 4K UHD HDR LED Smart Google TV (XR65X95J) - 2021",0,$1459.97,15.50,Sony,LED,65,4K
+637,"Open Box - LG 75"" 4K UHD HDR LED webOS Smart TV (75UP8070PUA) - 2021",183,$1529.99,15.50,LG,LED,75,4K
+638,"LG 75"" 4K UHD HDR LCD webOS Smart TV (75UN8570AUD)",796,$2198.97,$78,LG,LCD,75,4K
+639,"Samsung NT670U Series 55"" 4K UHD LED TV - (HG55NT670UFXZA)",0,$773.99,15.50,Samsung,LED,55,4K
+640,"Open Box - Sony 50"" 4K UHD HDR LED Google Smart TV (KD50X85J) - 2021",3,$764.99,15.50,Sony,LED,50,4K
+641,"Open Box - Insignia 50"" 4K UHD HDR QLED Fire Smart TV (NS-50F501CA22) - 2020",0,$467.99,$215,Insignia,LED,50,4K
+642,"Samsung 75"" 8K UHD Neo QLED Tizen Smart TV (QN75QN800BFXZ) - Stainless Steel - Open Box",0,$3439.99,$851,Samsung,LED,75,NA
+643,"LG OLED65C2PUA 65"" 4K UHD HDR OLED webOS Evo ThinQ AI Smart TV (Factory Refurbished)",0,$1749,15.50,LG,OLED,65,4K
+644,"LG 50"" 4K UHD HDR QNED webOS Smart TV (50QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",0,$919.99,$450,LG,QNED,50,4K
+645,Samsung QN55LS01BAFXZC 55-Inch The Serif QLED 4K UHD HDR Smart TV - Open Box,0,$1349,15.50,Samsung,LED,NA,4K
+646,"LG 86"" 4K UHD HDR QNED webOS Smart TV (86QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",187,$3599.99,15.50,LG,QNED,86,4K
+647,"Open Box - LG 50"" 4K UHD HDR LED webOS Smart TV (50UP7560AUD) - 2021",0,$639.99,15.50,LG,LED,50,4K
+648,"Samsung 75"" 4K UHD HDR QLED Tizen OS Smart TV (QN75QN88AAFXZC) - 2021 - Titan Black - Only at Best Buy",323,$2898.97,$501,Samsung,LED,75,4K
+649,"[Bundle Open Box 10/10] Samsung 65"" 4K UHD Neo QLED Tizen Smart TV (QN65QN85BAFXZC) + Samsung HW-B650 430-Watt 3.1 Soundbar with 1 year of La Clef De Sol Warranty",1,$1798,15.50,Samsung,LED,65,4K
+650,"Neptune Partial Sun 65"" 4K UHD HDR LED webOS Outdoor Smart TV (NT653)",0,$3699.99,0,NA,LED,65,4K
+651,"Samsung 60"" 4K UHD HDR QLED Tizen Smart TV (QN60Q60AAFXZC) - 2021 - Titan Grey - Open Box",0,$1299.99,15.50,Samsung,LED,60,4K
+652,"Open Box - Samsung 85"" 4K UHD HDR LED Tizen Smart TV (UN85TU8000FXZC)",0,$2339.99,0,Samsung,LED,85,4K
+653,"LG 55"" G2 4K UHD HDR OLED webOS Evo Gallery Smart TV (OLED55G2PUA) - 2022 - Satin Silver - Refurbished",0,$1999.99,0,LG,OLED,55,4K
+654,"Refurbished (Good) - TCL 6Series 65"" 4K UHD LED LCD Roku OS Smart TV (65R615CAB)",4,$778.99,0,TCL 6Series 65,LED,65,4K
+655,"Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75QN88BAFXZC) -Titan Black -Only at Best Buy -Open Box",1,$2799.99,0,Samsung,LED,75,4K
+656,"Open Box - Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75Q80AAFXZC) - 2021 - Titan Black",0,$2124.99,0,Samsung,LED,75,4K
+657,"Open Box - Samsung 85"" 4K UHD HDR QLED Tizen OS Smart TV (QN85Q80AAFXZC) - 2021 - Titan Black",0,$2804.99,$510,Samsung,LED,85,4K
+658,"Samsung - 55"" QN55QN90AA QLED 4K Ultra HD HDR Smart TV Seller Provided Warranty Included",0,$1590,$285,Samsung,LED,55,4K
+659,"Refurbished (Excellent) - LG 55"" 4K UHD HDR QNED webOS Smart TV (55QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$714.99,15.50,LG,QNED,55,4K
+660,"Open Box - Samsung 75"" 4K UHD HDR QLED Tizen Smart TV (QN75QN85AAFXZC) - 2021 - Titan Black",0,$2149.99,$90,Samsung,LED,75,4K
+661,"Refurbished (Excellent) - Insignia 55"" 4K UHD HDR LCD Smart TV (NS-55F301CA22) - Fire TV Edition - 2020 - *BC/AB/SK/MB DELIVERY ONLY*",0,$459.95,$172,Insignia,LCD,55,4K
+662,SAMSUNG QN32Q50AA OPEN BOX 10/10,0,$426,"$1,501",Samsung,NA,NA,NA
+663,"Refurbished (Good) - LG 86"" 4K UHD HDR QNED webOS Smart TV (86QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$2699,15.50,LG,QNED,86,4K
+664,"Samsung QE55T Series 55"" 4K Ultra HD 8 ms LED Display - (LH55QETELGCXGO)",0,$744.99,$240,Samsung,LED,55,4K
+665,"Open Box - Sony X85J 50"" 4K UHD HDR LED Smart Google TV (KD50X85J) - 2021",0,$659.97,15.50,Sony,LED,50,4K
+666,"LG 50"" 4K UHD HDR LCD webOS Smart TV (50UP7000PUA) - 2021 - Open Box",0,$589.99,$40,LG,LCD,50,4K
+667,"REFURBISHED (GOOD) - Element Electronics 24"" 720p HD LED TV with Dolby Audio and HDMI (E1AA24N)",0,$119.99,15.50,NA,LED,24,720p
+668,"Open Box - LG 65"" 4K UHD HDR LED webOS Smart TV (65UN7300PUB)",10,$869.99,$420,LG,LED,65,4K
+669,"Refurbished (Good) - Philips 75"" Class 4K Ultra HD (2160p) Android Smart LED TV with Google Assistant (75PFL5604/F7)",0,$799.99,"$1,300",Philips 75,LED,75,4K
+670,Samsung QN65LS01BAFXZC 65-Inch The Serif QLED 4K UHD HDR Smart TV - Open Box,0,$1298,15.50,Samsung,LED,NA,4K
+671,"Samsung 75"" 8K UHD QLED Tizen Smart TV (QN75QN900BFXZC) - Stainless Steel - Open Box",0,$5199.99,$411,Samsung,LED,75,NA
+672,"LG 65UQ7590PUB 65"" 4K UHD HDR LED webOS Smart TV 2022 - Dark Iron Grey (Factory Refurbished)",0,$689,$500,LG,LED,65,4K
+673,"Refurbished (Good) LG 75"" Class 4K UHD NanoCell 80 Series Smart TV w/ AI ThinQ (75NANO80UPA)",0,$1099.99,$701,LG,NA,75,4K
+674,"Refurbished (Good) - LG NanoCell 70"" 4K UHD HDR LED webOS Smart TV (70NANO75UQA) - 2022 - Ashed Blue",0,$999,$350,LG,LED,70,4K
+675,"REFURBISHED (GOOD) - SAMSUNG 70"" Class Q60B-Series QLED 4K Smart TV (QN70Q60BD)",0,$1199.99,$170,Samsung,LED,70,4K
+676,"REFURBISHED (GOOD) - SAMSUNG 43"" Class Q60B-Series QLED 4K Smart TV (QN43Q60BD / QN43Q60BA)",0,$549.99,$159,Samsung,LED,43,4K
+677,"Refurbished (Good) - RCA 32"" 720P 60HZ HD ROKU SMART LED TV (RTR3261)-",0,$179.99,$102,RCA 32,LED,32,NA
+678,"Open Box - Samsung 32"" 720p HD LED Tizen Smart TV (UN32M4500BFXZC) - Glossy Black - Like New (Condition 10/10)",0,$197.9,$700,Samsung,LED,32,720p
+679,"REFURBISHED (GOOD) - LG 75"" QNED80AQA LED 4K UHD Quantum Dot NanoCell Smart TV (75QNED80AQA)",0,$1099.99,$515,LG,QNED,75,4K
+680,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q8DTAFXZC) - Titan Black - Open Box",0,$1483.97,$201,Samsung,LED,65,4K
+681,"[Bundle Open Box 10/10] Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q82BAFXZC) + Samsung HW-B450/ZC 300-Sound Bar with Wireless Subwoofer - 1 year Seller Warranty",0,$1498,$568,Samsung,LED,55,4K
+682,"LG 70"" Class - UQ8000 Series - 4K UHD LED TV w/ ThinQ AI and Magic Remote",0,$1029.99,$800,LG,LED,70,4K
+683,"Refurbished (Good) - LG 55"" Class 4K Ultra HD Smart OLED TV w/ ThinQ AI (OLED55A1AUA)",0,$999.99,$380,LG,OLED,55,4K
+684,"Open Box - LG 50"" 4K UHD HDR LED webOS Smart TV (50UP8000PUA) - 2021",0,$519.97,15.50,LG,LED,50,4K
+685,"Open Box - LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO80UPA) - 2021",0,$1259.99,0,LG,LED,75,4K
+686,"Samsung 75"" 4K UHD HDR QLED Tizen OS Smart TV (QN75QN84AAFXZC) - 2021 - Titan Black - Only at Best Buy",420,$2698.97,"$2,201",Samsung,LED,75,4K
+687,"Refurbished (Excellent) - LG OLED65GXPUA inch Class with Gallery Design 4K Smart OLED TV w/AI ThinQ"" (Factory Refurbished)",0,$1699,15.50,LG,OLED,NA,4K
+688,"Open Box - LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO90UPA) - 2021",526,$1619.99,$98,LG,LED,75,4K
+689,Hisense A4 Series 43-Inch Class FHD Smart Android TV with DTS Virtual X,86,$599.99,$220,Hisense,NA,NA,NA
+690,"Refurbished (Good) - VIZIO 55"" Class M6 Series Premium 4K UHD Quantum SmartCast Smart TV HDR (M55Q6-J)",0,$479.99,$205,VIZIO,NA,55,4K
+691,"Refurbished (Excellent) - LG 50"" 4K UHD HDR LCD webOS Smart TV (50UP7000PUA) - 2021",0,$494.97,0,LG,LCD,50,4K
+692,"Refurbished (Excellent) - LG OLED65BXPUA 65"" 4K UHD HDR OLED webOS Smart TV (Factory Refurbished)",0,$1299,15.50,LG,OLED,65,4K
+693,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q60TAFXZC) - Titan Grey",2,$839.99,15.50,Samsung,LED,55,4K
+694,"Open Box - LG 82"" 4K UHD HDR LED webOS Smart TV (82UM8070PUA)",356,$1979.99,$615,LG,LED,82,4K
+695,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65QN88BAFXZC) - Titan Black",0,$1484.97,15.50,Samsung,LED,65,4K
+696,"Open Box - LG 75"" 4K UHD HDR LED webOS 4.5 Smart TV (75UM8070PUA)",141,$1179.99,15.50,LG,LED,75,4K
+697,"Samsung 85"" 8K UHD QLED Tizen Smart TV (QN85QN900BFXZC) - Stainless Steel - Open Box",0,$6799.99,$700,Samsung,LED,85,NA
+698,"Refurbished (Good) - VIZIO 75"" Class M6 Series Premium 4K UHD Quantum LED SmartCast Smart TV HDR (M75Q6-J)",0,$849.99,$840,VIZIO,LED,75,4K
+699,"Refurbished (Excellent) - Sony BRAVIA XR X95J 75"" 4K UHD HDR LED Smart Google TV (XR75X95J) - 2021",0,$2159.97,$295,Sony,LED,75,4K
+700,"Samsung The Frame 43"" 4K UHD HDR QLED Tizen OS Smart TV (QN43LS03AAFXZC) - 2021 - Open Box",0,$804.97,$500,Samsung,LED,43,4K
+701,"Open Box - LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65B2PUA) - 2022",0,$2999.99,$90,LG,OLED,65,4K
+702,"Refurbished (Excellent) - LG NanoCell 43"" 4K UHD HDR LED webOS Smart TV (43NANO75UPA) - 2021",0,$459.97,$301,LG,LED,43,4K
+703,LG 75UP7300 75” Class LED 4K UHD Smart webOS TV (Factory Refurbished),0,$799,$302,LG,LED,NA,4K
+704,"Open Box 10/10 - Samsung 65"" 2022 Q80B QLED 4K Smart TV, QN65Q80BA",1,$1398,15.50,Samsung,LED,65,4K
+705,"Open Box - LG 50"" 4K UHD HDR LED webOS Smart TV (50UP8000PUA) - 2021",0,$599.99,15.50,LG,LED,50,4K
+706,"Open Box - Samsung 75"" 8K UHD HDR Mini-LED Tizen OS Smart TV (QN75QN900AFXZC) - 2021 - Stainless Steel",0,$5099.99,$200,Samsung,LED,75,NA
+707,"Refurbished (Good) - VIZIO 24""Â Class HD (720P) Smart LED TV (D24h-G9)",1,$199.99,$36,VIZIO,LED,24,NA
+708,RCA 32” FHD LED 60 Hz HDMI Smart TV Black Television (RNSM3203),0,$357.99,$450,RCA 32,LED,NA,NA
+709,"Refurbished (Good) - VIZIO 65"" CLASS M-SERIES QUANTUM 4K HDR SMART TV (M65Q7-J01)",0,$549.99,$140,VIZIO,NA,65,4K
+710,"REFURBISHED (GOOD) - Hisense 50"" Class Quantum 4K ULED Android Smart TV U6G Series (50U6G)",0,$439.99,$208,Hisense,LED,50,4K
+711,LG Commercial Lite 65UR340C9UD LED-LCD TV 65UR340C9UD,0,$1189.07,$220,LG,LED,NA,NA
+712,"REFURBISHED (GOOD) - Hisense 75"" Class 4K UHD LCD Roku Smart TV HDR R6 Series (75R6030G)",0,$699.99,$851,Hisense,LCD,75,4K
+713,"Refurbished (Excellent) - LG OLED55C1AUB 55"" 2021 4K HDR OLED Smart TV (Factory Refurbished)",0,$1249,$361,LG,OLED,55,4K
+714,"Refurbished (Good) - LG 50"" 4K UHD HDR QNED webOS Smart TV (50QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$689,"$1,300",LG,QNED,50,4K
+715,"Open Box - LG 55"" 4K UHD HDR OLED webOS Smart TV (OLED55B2PUA)",0,$1699.99,0,LG,OLED,55,4K
+716,"Samsung - 43"" AU8000 LED 4K Ultra HD HDR Smart TV [UN43AU8000FXZC][Canada Version] - OPEN BOX - 10/10 Condition",0,$799.99,$360,Samsung,LED,43,4K
+717,"Open Box - Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q75AAFXZC)",1,$939.97,$125,Samsung,LED,65,4K
+718,"Refurbished (Excellent) - LG 55"" 4K UHD HDR LED webOS Smart TV Smart TV (55UP7000PUA) - 2021",0,$624.97,$701,LG,LED,55,4K
+719,"Refurbished (Good) - LG 86"" 4K UHD HDR QNED webOS Smart TV (86QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$1999,$120,LG,QNED,86,4K
+720,"Refurbished (Good) - VIZIO 58"" Class 4K UHD LED SmartCast Smart TV HDR V-Series (V585-J)",0,$429.99,$285,VIZIO,LED,58,4K
+721,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen OS Smart TV (QN55QN90AAFXZC) - 2021 - Titan Black",0,$1214.97,15.50,Samsung,LED,55,4K
+722,"LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO75UPA) - 2021",915,$1499.97,15.50,LG,LED,65,4K
+723,"LG 75"" 4K UHD HDR QNED webOS Smart TV (75QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue - Open Box",0,$2399.99,$640,LG,QNED,75,4K
+724,"Refurbished (Excellent) - Samsung The Sero 43"" 4K UHD HDR QLED Tizen Smart TV (QN43LS05BAFXZC) - 2022 - Navy Blue",0,$1259.99,$400,Samsung,LED,43,4K
+725,"REFURBISHED (GOOD) - SAMSUNG 75"" Class Q80B QLED 4K Smart TV (QN75Q80BD)",0,$1599.99,$745,Samsung,LED,75,4K
+726,"Open Box - LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO75UPA) - 2021",0,$1054.97,15.50,LG,LED,75,4K
+727,"Open Box - LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO90UNA)",1326,$1619.99,"$1,999",LG,LED,65,4K
+728,"Refurbished (Good) - SAMSUNG QN85QN800A 85"" CLASS QN800A NEO QLED 8K SMART TV (2021)",0,$4299.99,$231,Samsung,LED,85,NA
+729,LG 43NANO75UQA LED 4K UHD Smart webOS 22 with ThinQ AI TV - Factory Refurbished,0,$469,$53,LG,LED,NA,4K
+730,LG 43UR640S9UD Smart LED-LCD TV WebOS 43UR640S9UD,0,$647.27,$100,LG,LED,NA,NA
+731,"Refurbished (Good) - SAMSUNG 75"" Class TU700D 4K Crystal UHD HDR Smart TV (2020) - UN75TU700D / UN75TU7000",0,$1499.99,"$2,660",Samsung,NA,75,4K
+732,"Open Box - Samsung 85"" 8K UHD QLED Tizen Smart TV (QN85QN900BFXZC) - Stainless Steel",0,$5839.95,15.50,Samsung,LED,85,NA
+733,"Samsung QE75T Series 75"" 4K Ultra HD 8 ms LED Display - (LH75QETEPGCXGO)",0,$1527.99,$251,Samsung,LED,75,4K
+734,"Refurbished (Good) - LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO75UQA) - 2022 - Ashed Blue",0,$849,$851,LG,LED,65,4K
+735,"Refurbished (Good) - LG 65"" 4K UHD HDR QNED webOS Smart TV (65QNED85UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$1349,$250,LG,QNED,65,4K
+736,"Refurbished (Good) - TCL 55"" 6-Series 4K UHD Dolby Vision HDR QLED Roku Smart TV (55R635)",0,$699.99,$140,NA,LED,55,4K
+737,"Refurbished (Good) - LG 55"" 4K UHD HDR LED webOS Smart TV (55UQ7590PUB) - 2022 - Dark Iron Grey",0,$559.99,$215,LG,LED,55,4K
+738,"Open Box - Samsung 43"" 4K UHD HDR QLED Tizen Smart TV (QN43Q60BAFXZC) - Titan Grey",0,$484.97,$900,Samsung,LED,43,4K
+739,"Refurbished (Good) - SAMSUNG 65"" Class Q7-Series 4K Ultra HD Smart QLED TV (QN65Q7DA/QN65Q70A)",0,$1099.99,$500,Samsung,LED,65,4K
+740,"REFURBISHED (GOOD) - SAMSUNG 75"" Class QN85 Neo QLED 4K Smart TV (QN75QN85BD / QN75QN85BA)",0,$1999.99,$555,Samsung,LED,75,4K
+741,LG 86UR640S9UD Smart LED-LCD TV WebOS 86UR640S9UD,0,$3176.04,$480,LG,LED,NA,NA
+742,"REFURBISHED (GOOD) - LG 55"" Class 4K UHD OLED Web OS Smart TV with Dolby Vision C2 Series (OLED55C2PUA)",0,$1419.99,$560,LG,OLED,55,4K
+743,"Refurbished (Good) - LG 75"" 4K UHD HDR QNED webOS Smart TV (75QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$1339,$173,LG,QNED,75,4K
+744,LG 55UR640S9UD Smart LED-LCD TV WebOS 55UR640S9UD,0,$1016.74,$400,LG,LED,NA,NA
+745,"REFURBISHED (GOOD) LG 55"" Class 4K UHD OLED Web OS Smart TV with Dolby Vision A2 Series (OLED55A2PUA)",0,$999.99,$351,LG,OLED,55,4K
+746,"Refurbished (Good) - LG NanoCell 75"" 4K UHD HDR LED webOS Smart TV (75NANO75UQA) - 2022 - Ashed Blue",0,$1249,0,LG,LED,75,4K
+747,"7"" Portable TV & Digital Multimedia Player",0,$129.99,$451,NA,NA,7,NA
+748,"Refurbished (Good) - LG 70"" 4K UHD HDR LED webOS Smart TV (70UQ9000PUD) - Titan Grey",0,$1049,$245,LG,LED,70,4K
+749,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen Smart TV (QN55Q70AAFXZC)",0,$854.97,0,Samsung,LED,55,4K
+750,"Samsung 65"" 4K UHD HDR QLED Tizen Smart TV (QN65Q7DRAFXZC) - Only at Best Buy",12,$1698.97,0,Samsung,LED,65,4K
+751,"50"" Furrion Aurora Weatherproof Outdoor Smart TV, 4K UHD LED, Partial Sun",0,$2699.99,$995,NA,LED,50,4K
+752,"Samsung 75"" 4K UHD HDR QLED Tizen OS Smart TV (QN75QN90AAFXZC) - 2021 - Titan Black - Open Box",0,$2804.97,"$1,201",Samsung,LED,75,4K
+753,"LG 82UP8770PUA 82"" 4K UHD HDR LED webOS Smart TV (Factory Refurbished)",0,$1799,$20,LG,LED,82,4K
+754,"SAMSUNG UN43TU7000 43"" 4K HDR LED SMART TV Seller Provided Warranty Included",0,$579.99,"$1,601",Samsung,LED,43,4K
+755,"Refurbished (Good) - LG 65"" 4K UHD HDR MiniLED webOS Smart TV (65QNED90UPA) - 2021 - Light Black",0,$1599,0,LG,LED,65,4K
+756,LG Commercial Lite 55UR340C9UD LED-LCD TV 55UR340C9UD,0,$965.71,$215,LG,LED,NA,NA
+757,"Open Box - Sony X75K 65"" 4K UHD HDR LED Smart Google TV (KD65X75K) - 2022",0,$634.99,$217,Sony,LED,65,4K
+758,"Samsung NT678U Series 50"" 4K Ultra HD LED TV - (HG50NT678UFXZA)",0,$724.98,$170,Samsung,LED,50,4K
+759,"Samsung 50"" 4K UHD QLED Tizen Smart TV (QN50QN90BAFXZC) - Titan Black OPEN BOX 10/0",0,$1228,$105,Samsung,LED,50,4K
+760,"Open Box - LG 55"" 4K UHD HDR LED webOS Smart TV Smart TV (55UP7000PUA) - 2021",0,$644.97,$230,LG,LED,55,4K
+761,"REFURBISHED (GOOD) - VIZIO 65"" Class P-Series 4K QLED HDR Smart TV (P65Q9-J01)",0,$769.99,$401,VIZIO,LED,65,4K
+762,"LG OLED65A2PUA 65"" 4K OLED UHD Smart webOS 22 with ThinQ AI TV (Factory Refurbished)",0,$1399,$451,LG,OLED,65,4K
+763,The Freestyle Smart FHD Portable LED Projector OPEN BOX 10/10,0,$698,$100,NA,LED,NA,NA
+764,Refurbished (Good) - RCA DEL HD 720P TV 24 in (RT2412-C),0,$99.99,"$1,099",NA,NA,NA,NA
+765,"Refurbished (Good) - SAMSUNG QN55QN85A 55"" CLASS QN85A NEO QLED 4K SMART TV (2021)",0,$899,$220,Samsung,LED,55,4K
+766,"Refurbished (Good) - Samsung 43"" 4K UHD HDR LED Tizen Smart TV (UN43AU8000FXZC) - 2021",0,$479.99,$700,Samsung,LED,43,4K
+767,"Refurbished (Good) - SAMSUNG QN65Q80B 65"" CLASS Q80B QLED 4K SMART TV (2022)",0,$1199.99,$260,Samsung,LED,65,4K
+768,"Open Box - LG 55"" 4K UHD HDR QNED webOS Smart TV (55QNED80UQA) - 2022 - Dark Titan Silver/Ashed Blue",0,$739.99,$300,LG,QNED,55,4K
+769,"Refurbished (Good) Sony 65"" Class 4K Ultra HD LED Smart Google TV with Dolby Vision HDR X85J Series (KD65X85J)",0,$989.99,"$1,348",Sony,LED,65,4K
+770,"Refurbished (Good) - SAMSUNG QN55Q90T 55"" CLASS Q90T QLED 4K UHD HDR SMART TV (2020)",0,$949.99,$329,Samsung,LED,55,4K
+771,"Refurbished (Good) - RCA 32"" 720P LED HD TV ( RT3205 )-",0,$169.99,$420,RCA 32,LED,32,NA
+772,Refurbished(Good) - SAMSUNG 60” Class Q60B QLED 4K Smart TV (QN60Q60B),0,$879.99,$280,Samsung,LED,NA,4K
+773,"Refurbished (Good) ONN 65” QLED 4K UHD (2160p) Roku Smart TV with Dolby Atmos, Dolby Vision, Local Dimming, 120hz Effective Refresh Rate, and HDR (100071705)",0,$579.99,0,NA,LED,NA,4K
+774,"Samsung 470 HG49NE470HF 49"" LED-LCD TV - HDTV",0,$883.27,$170,Samsung,LED,49,NA
+775,"REFURBISHED (GOOD) - VIZIO 65"" Class V-Series 4K LED HDR Smart TV (V655M-K)",0,$479.99,0,VIZIO,LED,65,4K
+776,"Samsung 58"" TU7000 (2020) 4K Crystal UHD HDR Smart TV (UN58TU7000)",45902,$1012.99,$250,Samsung,NA,58,4K
+777,"REFURBISHED (GOOD) JVC 58"" Class 4K UHD QLED Roku Smart TV Quantum Series (LT-58MAW804)",0,$499.99,$159,JVC 58,LED,58,4K
+778,"Samsung NT670U Series 65"" 4K UHD LED TV - (HG65NT670UFXZA)",0,$1586.99,$310,Samsung,LED,65,4K
+779,"Open Box - LG NanoCell 50"" 4K UHD HDR LED webOS Smart TV (50NANO80UPA) - 2021",0,$688.97,$130,LG,LED,50,4K
+780,"RCA 32"" Class HD (720P) Smart LED TV (RTA3201) - Open Box",0,$169.99,$702,RCA 32,LED,32,NA
+781,"Sony 55"" 4K UHD HDR LED Android Smart TV (KD55X750H) - Refurbished",0,$797.87,15.50,Sony,LED,55,4K
+782,"Open Box -LG 86"" 4K UHD HDR LED webOS Smart TV (86UM8070AUB)",119,$2149.99,"$1,300",LG,LED,86,4K
+783,"LG OLED77G2PUA 77"" G2 4K UHD HDR OLED webOS Evo Gallery Smart TV - Satin Silver (Factory Refurbished)",0,$3699,7.75,LG,OLED,77,4K
+784,"LG LV570H 55LV570H 54.6"" LED-LCD TV - HDTV - Black Coffee",0,$819.95,$195,LG,LED,6,NA
+785,"Amazon Fire TV Omni 50"" 4K UHD HDR LED Smart TV (B08T6JN4Y5) - 2021 - Open Box",0,$454.97,0,Amazon fire TV,LED,50,4K
+786,"65"" Furrion Aurora Weatherproof Outdoor Smart TV, 4K UHD LED, Full Shade",0,$3199.99,$570,NA,LED,65,4K
+787,"REFURBISHED (GOOD) - SAMSUNG 75"" Class Q60B-Series QLED 4K Smart TV (QN75Q60BA)",0,$1429.99,0,Samsung,LED,75,4K
+788,"Toshiba 49"" 1080p LED TV (49L420U) - Open Box",0,$549.97,$245,Toshiba,LED,49,1080p
+789,"Open Box - LG NanoCell 55"" 4K UHD HDR LED webOS Smart TV (55NANO80UNA)",223,$753.97,$550,LG,LED,55,4K
+790,"Refurbished (Good) - VIZIO 75"" Class 4K UHD LED SmartCast Smart TV HDR V-Series (V756X-J03)",0,$749.99,$840,VIZIO,LED,75,4K
+791,"Open Box - LG 65"" 4K UHD HDR OLED webOS Smart TV (OLED65A2PUA)",0,$1959.97,$274,LG,OLED,65,4K
+792,"Samsung NT678U Series 55"" 4K Ultra HD LED TV - (HG55NT678UFXZA)",0,$913.99,$500,Samsung,LED,55,4K
+793,"REFURBISHED (GOOD) - LG 55"" Class 4K Ultra HD Smart OLED TV w/ ThinQ AI (OLED55A1PUA)",0,$999.99,$310,LG,OLED,55,4K
+794,Samsung HG50NJ690YF Smart LED-LCD TV Tizen,0,$1032.99,$265,Samsung,LED,NA,NA
+795,"Refurbished (Excellent) - Samsung 50"" 4K UHD HDR QLED Tizen Smart TV (QN50Q60BAFXZC) - Titan Grey",0,$534.97,$315,Samsung,LED,50,4K
+796,"Samsung 85"" 8K UHD Neo QLED Tizen Smart TV (QN85QN800BFXZC) - Stainless Steel - Open Box",0,$5039.99,$750,Samsung,LED,85,NA
+797,"LG 42"" 4K UHD HDR OLED webOS Evo ThinkQ AI Smart TV (OLED42C2PUA) - 2022 - Dark Titan Silver - Refurbished",0,$1149.97,0,LG,OLED,42,4K
+798,LG 65'' Class OLED65E8 E8PUA Series 2160p Smart 4K UHD TV with HDR,1,$4499.99,"$1,300",LG,OLED,NA,4K
+799,"Refurbished (Good) - SAMSUNG 65""Â Class Q8-Series 4K Ultra HD Smart HDR QLED TV ( QN65Q80A / QN65Q8DA )",0,$1199.99,$300,Samsung,LED,65,4K
+800,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen OS Smart TV (QN55Q80AAFXZC) - 2021 - Titan Black",1,$999.97,$101,Samsung,LED,55,4K
+801,"LG OLED55A2PUA 55"" 4K OLED UHD Smart webOS 22 with ThinQ AI TV (Factory Refurbished)",0,$1199,$365,LG,OLED,55,4K
+802,"Open Box - LG NanoCell 55"" 4K UHD HDR LED webOS Smart TV (55NANO80UPA) - 2021",0,$924.97,"$1,100",LG,LED,55,4K
+803,"Samsung 55"" 4K UHD OLED Tizen Smart TV (QN55S95BAFXZC) - Refurbished",0,$1698,$350,Samsung,OLED,55,4K
+804,"Refurbished (Good) - Samsung 55"" 4K UHD HDR QLED Tizen OS Smart TV (QN55QN90AAFXZC) - 2021 - Titan Black - *LOCAL TORONTO DELIVERY ONLY*",0,$1149.96,$94,Samsung,LED,55,4K
+805,Samsung HG50NJ690YF Smart LED-LCD TV Tizen,0,$934.99,0,Samsung,LED,NA,NA
+806,"Open Box - Samsung 55"" 4K UHD HDR QLED Tizen OS Smart TV (QN55QN88AAFXZC) - 2021 - Titan Black",0,$1299.97,$230,Samsung,LED,55,4K
+807,"Refurbished (Good) LG 65"" Class UQ8000-Series Ultra HD 4K WebOS 22 Smart w/ThinQ AI LED TV (65UQ8000AUB)",0,$719.99,$570,LG,LED,65,Ultra HD
+808,"Open Box - Samsung 50"" 4K UHD QLED Tizen Smart TV (QN50QN90BAFXZC) - Titan Black",0,$1229.95,$135,Samsung,LED,50,4K
+809,"Refurbished (Excellent) - LG 43"" 4K UHD HDR LED webOS Smart TV (43UP8000PUA) - 2021",0,$534.97,$395,LG,LED,43,4K
+810,"Refurbished (Excellent) - LG 50"" 4K UHD HDR LED webOS Smart TV (50UP8000PUA) - 2021",0,$504.97,$451,LG,LED,50,4K
+811,"Refurbished (Good) - LG NanoCell 65"" 4K UHD HDR LED webOS Smart TV (65NANO80UPA) - 2021",0,$949,0,LG,LED,65,4K
+812,"Open Box - Samsung The Frame 65"" 4K UHD HDR QLED Tizen OS Smart TV (QN65LS03AAFXZC) - 2021",1,$1699.99,$225,Samsung,LED,65,4K
+813,"Open Box - Samsung 50"" 4K UHD HDR QLED Tizen OS Smart TV (QN50Q8DTAFXZC) - 2020 - Titan Black",0,$873.97,$140,Samsung,LED,50,4K
+814,"Refurbished (Excellent) - LG 43NANO75UPA NanoCell 43"" 4K UHD HDR LED webOS Smart TV (Factory Refurbished)",0,$499.99,$27,LG,LED,43,4K
+815,Naxa NT-90 9 in. Portable TV Digital Multimedia Player,0,$98,$138,Naxa,NA,NA,NA
+816,Samsung Hospitality HG55NT670UF LED-LCD TV HG55NT670UFXZA,0,$809.67,0,Samsung,LED,NA,NA
