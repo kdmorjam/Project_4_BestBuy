@@ -1,0 +1,196 @@
+{
+    "stations":[
+        {
+            "lat": 43.72339147400982, 
+            "lon": -79.72264776862897,
+            "name": "Best Buy Brampton"
+        },
+        {
+            "lat": 43.51835014480308,
+            "lon": -79.68638471314742,
+            "name": "Best Buy Oakville"
+        },
+        {
+            "lat": 43.62105995631689,
+            "lon": -79.69764835675116,
+            "name": "Best Buy, Mississauga, Mavis"
+        },
+        {
+            "lat": 43.60190622937997,
+            "lon": -79.78478029590292,
+            "name": "Best Buy, Mississauga, Argentia"
+        },
+        {
+            "lat": 43.543093319377384,
+            "lon": -79.86755637164717,
+            "name": "Best Buy, Milton"
+        },
+        {
+            "lat": 43.6211319481,
+            "lon": -79.55415567834379,
+            "name": "Best Buy, Etobicoke"
+        },
+        {
+            "lat": 43.667029714207864,
+            "lon": -79.38345498505969,
+            "name": "Best Buy,Toronto, Dundas St W"
+        },
+        {
+            "lat": 43.35031281066999,
+            "lon": -79.8256839234442,
+            "name": "Best Buy, Burlington"
+        },
+        {
+            "lat": 43.80309717708586,
+            "lon": -79.54863080869343,
+            "name": "Best Buy, Woodbridge"
+        },
+        {
+            "lat": 43.678736650215136,
+            "lon": -79.47380773018843,
+            "name": "Best Buy, Toronto, Old Stock Yards"
+        },
+        {
+            "lat": 43.238920007076594,
+            "lon": -79.93770288515681,
+            "name": "Best Buy, Ancaster"
+        },
+        {
+            "lat": 43.74183804597936,
+            "lon": -79.45468989528746,
+            "name": "Best Buy, Toronto, Wilson Ave"
+        },
+        {
+            "lat": 43.212140998110755,
+            "lon": -79.80359583629706,
+            "name": "Best Buy, Hamilton"
+        },
+        {
+            "lat": 43.730736010190334,
+            "lon": -79.35848938854721,
+            "name": "Best Buy, Toronto, Laird Dr"
+        },
+        {
+            "lat": 43.543825685552804,
+            "lon": -80.23434160922166,
+            "name": "Best Buy, Guelph"
+        },
+        {
+            "lat": 43.85931343400168,
+            "lon": -79.40624525549676,
+            "name": "Best Buy, Richmond Hill"
+        },
+        {
+            "lat": 43.88699159468712,
+            "lon": -79.28842964830847,
+            "name": "Best Buy, Markham"
+        },
+        {
+            "lat": 43.437241156821806,
+            "lon": -80.32669150693944,
+            "name": "Best Buy, Cambridge"
+        },
+        {
+            "lat": 43.80470316242667,
+            "lon": -79.26006984714323,
+            "name": "Best Buy, Scarborough"
+
+        },
+        {
+            "lat": 43.74822271941436,
+            "lon": -79.29046081270975,
+            "name": "Best Buy, Scarborough"
+
+        },
+        {
+            "lat": 43.46267022696178,
+            "lon": -80.4358196297066,
+            "name": "Best Buy, Kitchener"
+
+        },
+        {
+            "lat": 43.95557454303739,
+            "lon": -80.10152671794481,
+            "name": "Best Buy, Orangeville"
+
+        },
+        {
+            "lat": 43.19409773967756,
+            "lon": -80.2417066216678,
+            "name": "Best Buy, Brantford"
+
+        },
+        {
+            "lat": 44.0341585065479,
+            "lon": -79.42007680421827,
+            "name": "Best Buy, Aurora"
+
+        },
+        {
+            "lat": 44.09017987483597,
+            "lon": -79.48866972034325,
+            "name": "Best Buy, East Gwillimbury"
+
+        },
+        {
+            "lat": 43.906236803414544,
+            "lon": -78.89162936767907,
+            "name": "Best Buy, Whitby"
+
+        },
+        {
+            "lat": 43.17362429656117,
+            "lon": -79.26534249599625,
+            "name": "Best Buy, St. Catharines"
+
+        },
+        {
+            "lat": 43.540714466873354,
+            "lon": -80.53117529651466,
+            "name": "Best Buy, Waterloo"
+
+        },
+        {
+            "lat": 43.90737423612572,
+            "lon": -79.03154776473019,
+            "name": "Best Buy, Ajax"
+
+        },
+        {
+            "lat": 43.98354968231987,
+            "lon": -78.84716543388984,
+            "name": "Best Buy, Oshawa"
+
+        },
+        {
+            "lat": 44.378225524840495,
+            "lon": -79.67898546490817,
+            "name": "Best Buy, Barrie"
+
+        },
+        {
+            "lat": 43.00981918613598,
+            "lon": -81.23475316773829,
+            "name": "Best Buy, London"
+
+        },
+        {
+            "lat": 43.11507962113645,
+            "lon": -81.31264294911983,
+            "name": "Best Buy, London"
+
+        },
+        {
+            "lat": 43.053322873860424,
+            "lon": -82.32024712776794,
+            "name": "Best Buy, Sarnia"
+
+        },
+        {
+            "lat": 45.46169149524057,
+            "lon": -75.86007559230559,
+            "name": "Best Buy, Kanata"
+
+        }
+    ]
+}

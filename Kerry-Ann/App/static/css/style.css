@@ -1,0 +1,13 @@
+html,
+body,
+#map-id {
+  height: 97%;
+  padding: 0;
+  margin: 0;
+}
+
+#returnBtn {
+  position: absolute;
+  right: 50px;
+  bottom: 10px;
+}
