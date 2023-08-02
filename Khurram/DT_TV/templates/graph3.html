@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+    <title>Graph 3</title>
+    
+    <link rel="stylesheet" crossorigin="anonymous"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" >
+    
+	<script crossorigin="anonymous"
+	src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" >
+	</script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-sm-2 container p-5 my-5 border">
+            <h5>You can select item.</h5>
+            <div class="d-grid p-1 my-1">
+                <a class="btn btn-primary btn-block" href='/tvlist'>TV List</a>
+            </div>
+            <div class="d-grid p-1 my-1">
+                <a class="btn btn-primary btn-block" href='/graph1'>Graph 1</a>
+            </div>
+            <div class="d-grid p-1 my-1">
+                <a class="btn btn-primary btn-block" href='/graph2'>Graph 2</a>
+            </div>
+            <div class="d-grid p-1 my-1">
+                <a class="btn btn-primary btn-block" href='/graph3'>Graph 3</a>
+            </div>
+            <div class="d-grid p-1 my-1">
+                <a class="btn btn-primary btn-block" href="/map">Show map</a>
+            </div>
+            <div class="d-grid p-1 my-1">
+                <a class="btn btn-primary btn-block" href="/">Go home</a>
+            </div>
+        </div>
+        <div class="col-sm-10 p-2 my-2">
+            {% if error %}
+            <h3 class="text-danger">
+                {{ error }}
+            </h3>
+            {% endif %}
+            <h2>Graph 3 - lines+markers</h2>
+            {% if rows %}
+            <div id="plotly-div"></div>
+            {% endif %}
+            
+                <!-- Use Jinja2 to write the data to a hidden HTML element -->
+                <div id="data" style="display:none;">
+                    {{ rows|tojson }}
+                </div>
+
+                <script>
+                    // Use JavaScript to retrieve the data from the hidden element
+                    var data = JSON.parse(document.getElementById('data').textContent);
+
+                    var xData = [];
+                    var yData = [];
+
+                    // Extract x and y data from the JSON object
+                    for (var i = 0; i < data.length; i++) {
+                        if(!xData.includes(data[i][5]))
+                            xData.push(data[i][5])
+                    }
+
+                    for (var i = 0; i < xData.length; i++) {
+                        var h = 0;
+                        yData[i] = 0;
+                        for(var j = 0; j < data.length; j++){
+                            if(data[j][0] != ('' || 'NA'))
+                            if(xData[i] == data[j][5]){
+                                console.log('before', data[j][3], data[j][4])
+                                if(data[j][3] == ('' || 'NA'))
+                                {
+                                    data[j][3] = '0';
+                                    console.log('d-3', data[j][3])
+                                } else {
+                                    if(data[j][3].includes('$')){
+                                        data[j][3] = data[j][3].substring(1, data[j][3].length)
+                                        console.log('d-3-1', data[j][3])
+                                    }
+                                }
+                                console.log('d-3', data[j][3])
+                                if(data[j][4] == ('' || 'NA'))
+                                    data[j][4] = '0';
+                                else {
+                                    if(data[j][4].includes('$'))
+                                        data[j][4] = data[j][4].substring(1, data[j][4].length)
+                                }
+                                yData[i] += (parseFloat(data[j][3]) - parseFloat(data[j][4]))
+                                h++;
+                                console.log('sss', (parseFloat(data[j][3]) - parseFloat(data[j][4])));
+                                console.log('ydata1', yData[i], h, data[j][3], data[j][4]);
+
+                            }
+                        }
+                        yData[i] = yData[i] / h;
+                        console.log('ydata', yData[i]);
+                    }
+
+                    var trace1 = {
+                    x: xData,
+                    y: yData,
+                    mode: 'lines+markers',
+                    type: 'scatter'
+                    };
+
+                    var data = [trace1];
+
+                    var layout = {
+                    title: 'Average Sale / Brand'
+                    };
+
+                    Plotly.newPlot('plotly-div', data, layout);
+                </script> 
+        </div>
+    </div>
+</body>
